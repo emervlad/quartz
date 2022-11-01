@@ -1,0 +1,1251 @@
+[2022-11-01 15:12:09,054][lightning][INFO] - successful load initial weights
+[2022-11-01 15:12:13,950][lightning][INFO] - reference : афина воспроизведи музыку вперемешку
+[2022-11-01 15:12:13,951][lightning][INFO] - prediction: 
+[2022-11-01 15:12:14,560][lightning][INFO] - reference : сбер фильмы с джонни деппом
+[2022-11-01 15:12:14,561][lightning][INFO] - prediction: 
+[2022-11-01 15:12:15,342][lightning][INFO] - reference : ясном
+[2022-11-01 15:12:15,343][lightning][INFO] - prediction: 
+[2022-11-01 15:12:15,966][lightning][INFO] - reference : громче
+[2022-11-01 15:12:15,966][lightning][INFO] - prediction: 
+[2022-11-01 15:12:16,761][lightning][INFO] - reference : мастер и маргарита часть шесть
+[2022-11-01 15:12:16,762][lightning][INFO] - prediction: 
+[2022-11-01 15:12:17,597][lightning][INFO] - reference : сериал дальнобойщики третий сезон
+[2022-11-01 15:12:17,598][lightning][INFO] - prediction: 
+[2022-11-01 15:12:18,126][lightning][INFO] - reference : включи мне маленькая колдунья
+[2022-11-01 15:12:18,126][lightning][INFO] - prediction: 
+[2022-11-01 15:12:18,618][lightning][INFO] - reference : выведи мне андрея эвридэй
+[2022-11-01 15:12:18,618][lightning][INFO] - prediction: 
+[2022-11-01 15:12:19,504][lightning][INFO] - reference : никитой геннадьевичем кабировым
+[2022-11-01 15:12:19,504][lightning][INFO] - prediction: 
+[2022-11-01 15:12:20,183][lightning][INFO] - reference : джой как работает твое отключение по таймеру
+[2022-11-01 15:12:20,184][lightning][INFO] - prediction: 
+[2022-11-01 15:12:20,861][lightning][INFO] - reference : покажи мне трансляцию апл юнайтед с лестером
+[2022-11-01 15:12:20,861][lightning][INFO] - prediction: 
+[2022-11-01 15:12:21,524][lightning][INFO] - reference : сбер сыграй кей поп
+[2022-11-01 15:12:21,525][lightning][INFO] - prediction: 
+[2022-11-01 15:12:22,070][lightning][INFO] - reference : в твоем каталоге есть меня зовут танино
+[2022-11-01 15:12:22,071][lightning][INFO] - prediction: 
+[2022-11-01 15:12:22,754][lightning][INFO] - reference : заказать мороженое русский резерв один кг простой пломбир
+[2022-11-01 15:12:22,755][lightning][INFO] - prediction: 
+[2022-11-01 15:12:23,349][lightning][INFO] - reference : мелодии белой ночи покажи
+[2022-11-01 15:12:23,349][lightning][INFO] - prediction: 
+[2022-11-01 15:12:24,174][lightning][INFO] - reference : ярослав шарипов
+[2022-11-01 15:12:24,174][lightning][INFO] - prediction: 
+[2022-11-01 15:12:24,648][lightning][INFO] - reference : магомедсаида петровича борисова
+[2022-11-01 15:12:24,648][lightning][INFO] - prediction: 
+[2022-11-01 15:12:25,094][lightning][INFO] - reference : фатимы андреевны мансуровой
+[2022-11-01 15:12:25,095][lightning][INFO] - prediction: 
+[2022-11-01 15:12:26,375][lightning][INFO] - reference : поставь на смотрешке канал бридж тв
+[2022-11-01 15:12:26,375][lightning][INFO] - prediction: 
+[2022-11-01 15:12:26,968][lightning][INFO] - reference : включи гудбойс
+[2022-11-01 15:12:26,969][lightning][INFO] - prediction: 
+[2022-11-01 15:12:27,534][lightning][INFO] - reference : сбер долгота танцующий лес
+[2022-11-01 15:12:27,534][lightning][INFO] - prediction: 
+[2022-11-01 15:12:28,036][lightning][INFO] - reference : найти лучшие фильмы жанра детектив
+[2022-11-01 15:12:28,037][lightning][INFO] - prediction: 
+[2022-11-01 15:12:29,005][lightning][INFO] - reference : шесть четыреста восемьдесят шесть четыреста два восемьдесят один пять семь
+[2022-11-01 15:12:29,005][lightning][INFO] - prediction: 
+[2022-11-01 15:12:29,567][lightning][INFO] - reference : сбер я ничего не сказал
+[2022-11-01 15:12:29,568][lightning][INFO] - prediction: 
+[2022-11-01 15:12:30,061][lightning][INFO] - reference : джой запустить канал телевидение вопросы и ответы
+[2022-11-01 15:12:30,061][lightning][INFO] - prediction: 
+[2022-11-01 15:12:30,593][lightning][INFO] - reference : азу булгакова
+[2022-11-01 15:12:30,593][lightning][INFO] - prediction: 
+[2022-11-01 15:12:31,606][lightning][INFO] - reference : покажи фильм носферату ужас ночи
+[2022-11-01 15:12:31,606][lightning][INFO] - prediction: 
+[2022-11-01 15:12:32,693][lightning][INFO] - reference :  
+[2022-11-01 15:12:32,693][lightning][INFO] - prediction: 
+[2022-11-01 15:12:33,400][lightning][INFO] - reference : скажи пожалуйста какова стоимость экскурсий из отеля
+[2022-11-01 15:12:33,400][lightning][INFO] - prediction: 
+[2022-11-01 15:12:33,873][lightning][INFO] - reference : снежный гонщик найти
+[2022-11-01 15:12:33,873][lightning][INFO] - prediction: 
+[2022-11-01 15:12:34,435][lightning][INFO] - reference : включи канал авто двадцать четыре
+[2022-11-01 15:12:34,435][lightning][INFO] - prediction: 
+[2022-11-01 15:12:35,325][lightning][INFO] - reference : у тебя есть дюнкерк
+[2022-11-01 15:12:35,326][lightning][INFO] - prediction: 
+[2022-11-01 15:12:35,970][lightning][INFO] - reference : есть ли у тебя выйти замуж за капитана
+[2022-11-01 15:12:35,970][lightning][INFO] - prediction: 
+[2022-11-01 15:12:36,494][lightning][INFO] - reference : афина сколько я трачу денег на зарядку айфона в год если заряжаю его раз в день
+[2022-11-01 15:12:36,495][lightning][INFO] - prediction: 
+[2022-11-01 15:12:37,013][lightning][INFO] - reference : у тебя в запасе есть сериал воронины
+[2022-11-01 15:12:37,014][lightning][INFO] - prediction: п
+[2022-11-01 15:12:37,780][lightning][INFO] - reference : салют бруклин нетс это какой вид спорта
+[2022-11-01 15:12:37,780][lightning][INFO] - prediction: р роб
+[2022-11-01 15:12:38,472][lightning][INFO] - reference : у тебя найдется карточный домик
+[2022-11-01 15:12:38,472][lightning][INFO] - prediction: 
+[2022-11-01 15:12:39,036][lightning][INFO] - reference : твин пикс сезон девять
+[2022-11-01 15:12:39,037][lightning][INFO] - prediction: 
+[2022-11-01 15:12:39,599][lightning][INFO] - reference : найти лучшие фильмы жанра драма
+[2022-11-01 15:12:39,600][lightning][INFO] - prediction: 
+[2022-11-01 15:12:40,040][lightning][INFO] - reference : сезон двенадцать сериала цыган
+[2022-11-01 15:12:40,041][lightning][INFO] - prediction: 
+[2022-11-01 15:12:40,688][lightning][INFO] - reference : включить режим без звука на телевизоре через пятнадцать минут
+[2022-11-01 15:12:40,689][lightning][INFO] - prediction: 
+[2022-11-01 15:12:41,104][lightning][INFO] - reference : зиппер в ютубе
+[2022-11-01 15:12:41,104][lightning][INFO] - prediction: 
+[2022-11-01 15:12:41,990][lightning][INFO] - reference : лариса павловна даванидзе
+[2022-11-01 15:12:41,991][lightning][INFO] - prediction: 
+[2022-11-01 15:12:42,555][lightning][INFO] - reference : продолжить
+[2022-11-01 15:12:42,556][lightning][INFO] - prediction: 
+[2022-11-01 15:12:43,634][lightning][INFO] - reference : телефон контраст
+[2022-11-01 15:12:43,634][lightning][INFO] - prediction: 
+[2022-11-01 15:12:44,421][lightning][INFO] - reference : у тебя есть кино неровная земля
+[2022-11-01 15:12:44,422][lightning][INFO] - prediction: 
+[2022-11-01 15:12:45,066][lightning][INFO] - reference : оранжевый хит сезона двадцать вторая серия
+[2022-11-01 15:12:45,066][lightning][INFO] - prediction: 
+[2022-11-01 15:12:45,981][lightning][INFO] - reference : у тебя найдется серия четыре ханна монтана
+[2022-11-01 15:12:45,982][lightning][INFO] - prediction: 
+[2022-11-01 15:12:46,677][lightning][INFO] - reference : галиной олеговной
+[2022-11-01 15:12:46,678][lightning][INFO] - prediction: 
+[2022-11-01 15:12:47,498][lightning][INFO] - reference : бандитский петербург включи шестую серию
+[2022-11-01 15:12:47,498][lightning][INFO] - prediction: 
+[2022-11-01 15:12:48,232][lightning][INFO] - reference : афина кафе у метро третьяковская двое человек на завтра
+[2022-11-01 15:12:48,232][lightning][INFO] - prediction: 
+[2022-11-01 15:12:49,010][lightning][INFO] - reference : курс тенге доллар
+[2022-11-01 15:12:49,011][lightning][INFO] - prediction: 
+[2022-11-01 15:12:49,899][lightning][INFO] - reference : четыреста девяносто четыре сорок восемь семьсот пятнадцать четырнадцать
+[2022-11-01 15:12:49,900][lightning][INFO] - prediction: 
+[2022-11-01 15:12:50,488][lightning][INFO] - reference : эдик накусов
+[2022-11-01 15:12:50,488][lightning][INFO] - prediction: 
+[2022-11-01 15:12:51,273][lightning][INFO] - reference : первая серия диджея кхаледа
+[2022-11-01 15:12:51,274][lightning][INFO] - prediction: 
+[2022-11-01 15:12:51,827][lightning][INFO] - reference : у тебя в запасе есть сериал гравитация
+[2022-11-01 15:12:51,828][lightning][INFO] - prediction: 
+[2022-11-01 15:12:52,452][lightning][INFO] - reference : афина где был рожден рафаловский
+[2022-11-01 15:12:52,453][lightning][INFO] - prediction: 
+[2022-11-01 15:12:53,247][lightning][INFO] - reference : футбол между командами манчестер юнайтед тоттенхэм
+[2022-11-01 15:12:53,248][lightning][INFO] - prediction: 
+[2022-11-01 15:12:53,806][lightning][INFO] - reference : хочу купить двести двадцать песо сколько это будет по сегодняшнему курсу
+[2022-11-01 15:12:53,807][lightning][INFO] - prediction: 
+[2022-11-01 15:12:54,406][lightning][INFO] - reference : курс евро к рублю сегодня
+[2022-11-01 15:12:54,407][lightning][INFO] - prediction: 
+[2022-11-01 15:12:55,219][lightning][INFO] - reference : ты можешь включить фильм острые козырьки третья серия
+[2022-11-01 15:12:55,220][lightning][INFO] - prediction: 
+[2022-11-01 15:12:55,911][lightning][INFO] - reference : девять шестьсот три девятьсот четырнадцать пятнадцать пятнадцать
+[2022-11-01 15:12:55,911][lightning][INFO] - prediction: 
+[2022-11-01 15:12:56,435][lightning][INFO] - reference : сбер найди кино ужасы
+[2022-11-01 15:12:56,435][lightning][INFO] - prediction: 
+[2022-11-01 15:12:57,234][lightning][INFO] - reference : обед в номер заказать
+[2022-11-01 15:12:57,234][lightning][INFO] - prediction: 
+[2022-11-01 15:12:58,032][lightning][INFO] - reference : найди передачу любимое кино на телевизоре
+[2022-11-01 15:12:58,032][lightning][INFO] - prediction: 
+[2022-11-01 15:12:58,857][lightning][INFO] - reference : заказать продукты из магазина домой
+[2022-11-01 15:12:58,857][lightning][INFO] - prediction: 
+[2022-11-01 15:12:59,395][lightning][INFO] - reference : сергей конюхов
+[2022-11-01 15:12:59,395][lightning][INFO] - prediction: 
+[2022-11-01 15:12:59,943][lightning][INFO] - reference : есть ли тир в отеле
+[2022-11-01 15:12:59,943][lightning][INFO] - prediction: 
+[2022-11-01 15:13:01,349][lightning][INFO] - reference : включи литл бэби бум нерсери раймс энд чилдренс сонгс
+[2022-11-01 15:13:01,349][lightning][INFO] - prediction: 
+[2022-11-01 15:13:02,085][lightning][INFO] - reference : сергей вьюнов
+[2022-11-01 15:13:02,086][lightning][INFO] - prediction: 
+[2022-11-01 15:13:02,532][lightning][INFO] - reference : поехали азия микс
+[2022-11-01 15:13:02,533][lightning][INFO] - prediction: 
+[2022-11-01 15:13:03,282][lightning][INFO] - reference : пополнить баланс натальи девятьсот девяносто два ноль четыре ноль четыре девятьсот восемьдесят два
+[2022-11-01 15:13:03,283][lightning][INFO] - prediction: 
+[2022-11-01 15:13:04,016][lightning][INFO] - reference : афина курс доллара на сегодня в сбербанке
+[2022-11-01 15:13:04,016][lightning][INFO] - prediction: 
+[2022-11-01 15:13:04,595][lightning][INFO] - reference : наталия валериевна
+[2022-11-01 15:13:04,595][lightning][INFO] - prediction: 
+[2022-11-01 15:13:05,083][lightning][INFO] - reference : у тебя есть слепая ярость
+[2022-11-01 15:13:05,084][lightning][INFO] - prediction: 
+[2022-11-01 15:13:05,877][lightning][INFO] - reference : включи лавлэйс
+[2022-11-01 15:13:05,878][lightning][INFO] - prediction: 
+[2022-11-01 15:13:06,482][lightning][INFO] - reference : дай посмотреть фильмы жанра научная фантастика
+[2022-11-01 15:13:06,483][lightning][INFO] - prediction: 
+[2022-11-01 15:13:07,191][lightning][INFO] - reference : покажи видеофильм безжалостное солнце
+[2022-11-01 15:13:07,191][lightning][INFO] - prediction: 
+[2022-11-01 15:13:07,961][lightning][INFO] - reference : закажи трансфер в аэропорту
+[2022-11-01 15:13:07,961][lightning][INFO] - prediction: 
+[2022-11-01 15:13:09,018][lightning][INFO] - reference : у тебя есть фильм путь карлито
+[2022-11-01 15:13:09,019][lightning][INFO] - prediction: 
+[2022-11-01 15:13:10,051][lightning][INFO] - reference : у тебя будет фильмище жанра мультяшка
+[2022-11-01 15:13:10,052][lightning][INFO] - prediction: 
+[2022-11-01 15:13:10,788][lightning][INFO] - reference : двадцать первая серия последний сезон дневники вампира
+[2022-11-01 15:13:10,789][lightning][INFO] - prediction: 
+[2022-11-01 15:13:11,683][lightning][INFO] - reference : у тебя есть шесть потерянных часов
+[2022-11-01 15:13:11,683][lightning][INFO] - prediction: 
+[2022-11-01 15:13:12,488][lightning][INFO] - reference : жанр фильма стекло
+[2022-11-01 15:13:12,488][lightning][INFO] - prediction: 
+[2022-11-01 15:13:13,209][lightning][INFO] - reference : свяжись с сотрудником банка
+[2022-11-01 15:13:13,210][lightning][INFO] - prediction: 
+[2022-11-01 15:13:13,831][lightning][INFO] - reference : володя пайзуллаев
+[2022-11-01 15:13:13,832][lightning][INFO] - prediction: 
+[2022-11-01 15:13:15,618][lightning][INFO] - reference : скачай власть закона фор кей
+[2022-11-01 15:13:15,618][lightning][INFO] - prediction: 
+[2022-11-01 15:13:16,589][lightning][INFO] - reference : салют включить телеканал матч тв
+[2022-11-01 15:13:16,590][lightning][INFO] - prediction: 
+[2022-11-01 15:13:17,190][lightning][INFO] - reference : запускай комедию
+[2022-11-01 15:13:17,191][lightning][INFO] - prediction: 
+[2022-11-01 15:13:18,018][lightning][INFO] - reference : слепая
+[2022-11-01 15:13:18,019][lightning][INFO] - prediction: 
+[2022-11-01 15:13:18,851][lightning][INFO] - reference : какой сегодня курс фунта
+[2022-11-01 15:13:18,851][lightning][INFO] - prediction: 
+[2022-11-01 15:13:19,767][lightning][INFO] - reference : сбер какой пролив отделяет материк от острова сахалин
+[2022-11-01 15:13:19,768][lightning][INFO] - prediction: 
+[2022-11-01 15:13:20,631][lightning][INFO] - reference : закажи мне воду боржоми ноль пять литра одну бутылку
+[2022-11-01 15:13:20,632][lightning][INFO] - prediction: 
+[2022-11-01 15:13:21,699][lightning][INFO] - reference : ты можешь включить стс лав на смотрешке
+[2022-11-01 15:13:21,699][lightning][INFO] - prediction: 
+[2022-11-01 15:13:22,608][lightning][INFO] - reference : афина найди банкомат поблизости
+[2022-11-01 15:13:22,609][lightning][INFO] - prediction: 
+[2022-11-01 15:13:23,755][lightning][INFO] - reference : семь триста сорок четыре сто сорок два тридцать два тридцать семь
+[2022-11-01 15:13:23,755][lightning][INFO] - prediction: 
+[2022-11-01 15:13:25,350][lightning][INFO] - reference : джой какие виды социальная педагогика ты знаешь
+[2022-11-01 15:13:25,350][lightning][INFO] - prediction: 
+[2022-11-01 15:13:26,153][lightning][INFO] - reference : мой заказ не доставлен что делать
+[2022-11-01 15:13:26,153][lightning][INFO] - prediction: 
+[2022-11-01 15:13:27,181][lightning][INFO] - reference : афина какие еще есть популяризаторы науки кроме доукинза и хокинга
+[2022-11-01 15:13:27,182][lightning][INFO] - prediction: 
+[2022-11-01 15:13:28,064][lightning][INFO] - reference : порто ново
+[2022-11-01 15:13:28,064][lightning][INFO] - prediction: 
+[2022-11-01 15:13:28,781][lightning][INFO] - reference : газированная вода ессентуки четверка полтора литра
+[2022-11-01 15:13:28,781][lightning][INFO] - prediction: 
+[2022-11-01 15:13:29,668][lightning][INFO] - reference : хистори два на смотрешке
+[2022-11-01 15:13:29,668][lightning][INFO] - prediction: 
+[2022-11-01 15:13:30,229][lightning][INFO] - reference : оксана кузовлева
+[2022-11-01 15:13:30,230][lightning][INFO] - prediction: 
+[2022-11-01 15:13:31,046][lightning][INFO] - reference : леван михайлович
+[2022-11-01 15:13:31,046][lightning][INFO] - prediction: 
+[2022-11-01 15:13:32,000][lightning][INFO] - reference : прямой эфир английской премьер лиги манчестер с лестером
+[2022-11-01 15:13:32,000][lightning][INFO] - prediction: 
+[2022-11-01 15:13:32,636][lightning][INFO] - reference : курс доллара центробанка
+[2022-11-01 15:13:32,636][lightning][INFO] - prediction: 
+[2022-11-01 15:13:33,664][lightning][INFO] - reference : сбер с кем танат состоит в отношениях
+[2022-11-01 15:13:33,665][lightning][INFO] - prediction: 
+[2022-11-01 15:13:34,341][lightning][INFO] - reference : первая серия сезон три стрела
+[2022-11-01 15:13:34,342][lightning][INFO] - prediction: 
+[2022-11-01 15:13:35,172][lightning][INFO] - reference : открой мне арена на тв
+[2022-11-01 15:13:35,173][lightning][INFO] - prediction: 
+[2022-11-01 15:13:35,886][lightning][INFO] - reference : выживший
+[2022-11-01 15:13:35,887][lightning][INFO] - prediction: 
+[2022-11-01 15:13:36,552][lightning][INFO] - reference : найти на смотрешке телеканал его тв
+[2022-11-01 15:13:36,553][lightning][INFO] - prediction: и
+[2022-11-01 15:13:37,168][lightning][INFO] - reference : пиво жигулевское светлое полтора литра
+[2022-11-01 15:13:37,168][lightning][INFO] - prediction: 
+[2022-11-01 15:13:37,910][lightning][INFO] - reference : хочу удивительные истории ультра эйч ди
+[2022-11-01 15:13:37,910][lightning][INFO] - prediction: 
+[2022-11-01 15:13:38,684][lightning][INFO] - reference : покажи сериальчик детектив инаба
+[2022-11-01 15:13:38,684][lightning][INFO] - prediction: 
+[2022-11-01 15:13:39,360][lightning][INFO] - reference : мидлсбро
+[2022-11-01 15:13:39,361][lightning][INFO] - prediction: 
+[2022-11-01 15:13:39,838][lightning][INFO] - reference : джонни орландо в ютьюбе
+[2022-11-01 15:13:39,839][lightning][INFO] - prediction: 
+[2022-11-01 15:13:40,568][lightning][INFO] - reference : у тебя в каталоге есть кино шоу грэма нортона двенадцатый сезон
+[2022-11-01 15:13:40,569][lightning][INFO] - prediction: дц
+[2022-11-01 15:13:41,198][lightning][INFO] - reference : покажи мне на смотрешке нтв сериал
+[2022-11-01 15:13:41,199][lightning][INFO] - prediction: 
+[2022-11-01 15:13:41,947][lightning][INFO] - reference : включить канал стс
+[2022-11-01 15:13:41,948][lightning][INFO] - prediction: 
+[2022-11-01 15:13:42,824][lightning][INFO] - reference : скинуть денег на мобилку другу
+[2022-11-01 15:13:42,825][lightning][INFO] - prediction: 
+[2022-11-01 15:13:43,370][lightning][INFO] - reference : заводи бинго бонго муви филм ютьюб
+[2022-11-01 15:13:43,370][lightning][INFO] - prediction: 
+[2022-11-01 15:13:44,126][lightning][INFO] - reference : выключи
+[2022-11-01 15:13:44,126][lightning][INFO] - prediction: 
+[2022-11-01 15:13:45,541][lightning][INFO] - reference : афина сколько собак планировал отправить в поход нансен
+[2022-11-01 15:13:45,542][lightning][INFO] - prediction: 
+[2022-11-01 15:13:46,176][lightning][INFO] - reference : николай соболев
+[2022-11-01 15:13:46,176][lightning][INFO] - prediction: 
+[2022-11-01 15:13:46,881][lightning][INFO] - reference : сбер стар шоппинг
+[2022-11-01 15:13:46,881][lightning][INFO] - prediction: 
+[2022-11-01 15:13:47,513][lightning][INFO] - reference : покажи на смотрешке телеканал муз тв
+[2022-11-01 15:13:47,514][lightning][INFO] - prediction: к
+[2022-11-01 15:13:48,244][lightning][INFO] - reference : эпизод двадцать пять сезона пять шоу сплетница
+[2022-11-01 15:13:48,244][lightning][INFO] - prediction: 
+[2022-11-01 15:13:49,341][lightning][INFO] - reference :  
+[2022-11-01 15:13:49,342][lightning][INFO] - prediction: 
+[2022-11-01 15:13:49,940][lightning][INFO] - reference : популярное детское кино
+[2022-11-01 15:13:49,940][lightning][INFO] - prediction: 
+[2022-11-01 15:13:50,751][lightning][INFO] - reference : рамиль андреевич
+[2022-11-01 15:13:50,751][lightning][INFO] - prediction: 
+[2022-11-01 15:13:51,344][lightning][INFO] - reference : четырнадцатый сезон сериал люди икс
+[2022-11-01 15:13:51,345][lightning][INFO] - prediction: арорала
+[2022-11-01 15:13:52,489][lightning][INFO] - reference : давай посмотрим запись матча между арсеналом и бернли
+[2022-11-01 15:13:52,490][lightning][INFO] - prediction: 
+[2022-11-01 15:13:53,616][lightning][INFO] - reference : последний сезон сериала элементарно
+[2022-11-01 15:13:53,616][lightning][INFO] - prediction: 
+[2022-11-01 15:13:54,284][lightning][INFO] - reference : салют
+[2022-11-01 15:13:54,284][lightning][INFO] - prediction: 
+[2022-11-01 15:13:54,867][lightning][INFO] - reference : положи деньги маме на телефон
+[2022-11-01 15:13:54,867][lightning][INFO] - prediction: 
+[2022-11-01 15:13:56,037][lightning][INFO] - reference : сяньтао
+[2022-11-01 15:13:56,038][lightning][INFO] - prediction: 
+[2022-11-01 15:13:57,071][lightning][INFO] - reference : джой подскажите где я могу забрать мою перевыпущенную карту
+[2022-11-01 15:13:57,071][lightning][INFO] - prediction: 
+[2022-11-01 15:13:57,830][lightning][INFO] - reference : емельяненко кокляев
+[2022-11-01 15:13:57,831][lightning][INFO] - prediction: о
+[2022-11-01 15:13:58,537][lightning][INFO] - reference :  
+[2022-11-01 15:13:58,538][lightning][INFO] - prediction: 
+[2022-11-01 15:13:59,162][lightning][INFO] - reference : энималсити
+[2022-11-01 15:13:59,163][lightning][INFO] - prediction: 
+[2022-11-01 15:14:00,402][lightning][INFO] - reference : у тебя в списке есть гаттака
+[2022-11-01 15:14:00,402][lightning][INFO] - prediction: 
+[2022-11-01 15:14:01,279][lightning][INFO] - reference : салют отменить запись на эпиляцию
+[2022-11-01 15:14:01,280][lightning][INFO] - prediction: 
+[2022-11-01 15:14:02,086][lightning][INFO] - reference : фильмы бондарчука
+[2022-11-01 15:14:02,087][lightning][INFO] - prediction: 
+[2022-11-01 15:14:02,761][lightning][INFO] - reference : включи золотая коллекция валентина дворянинова
+[2022-11-01 15:14:02,761][lightning][INFO] - prediction: 
+[2022-11-01 15:14:03,466][lightning][INFO] - reference : выведи мне список сериалов
+[2022-11-01 15:14:03,467][lightning][INFO] - prediction: 
+[2022-11-01 15:14:04,426][lightning][INFO] - reference : встреча английской премьер лиги ливерпуль против арсенала
+[2022-11-01 15:14:04,427][lightning][INFO] - prediction: 
+[2022-11-01 15:14:06,848][lightning][INFO] - reference : повелитель тьмы
+[2022-11-01 15:14:06,849][lightning][INFO] - prediction: 
+[2022-11-01 15:14:07,788][lightning][INFO] - reference : денис николаевич козлов
+[2022-11-01 15:14:07,788][lightning][INFO] - prediction: 
+[2022-11-01 15:14:08,641][lightning][INFO] - reference : покажи каспер фул эйч ди
+[2022-11-01 15:14:08,642][lightning][INFO] - prediction: 
+[2022-11-01 15:14:09,672][lightning][INFO] - reference : молоко лужайкино три с половиной жирности один литр
+[2022-11-01 15:14:09,672][lightning][INFO] - prediction: 
+[2022-11-01 15:14:10,310][lightning][INFO] - reference : джой зороастризм
+[2022-11-01 15:14:10,310][lightning][INFO] - prediction: 
+[2022-11-01 15:14:10,886][lightning][INFO] - reference : эпизод два сезона один мультика школьные дни
+[2022-11-01 15:14:10,887][lightning][INFO] - prediction: 
+[2022-11-01 15:14:11,530][lightning][INFO] - reference : афина какая валюта у маврикийцев
+[2022-11-01 15:14:11,530][lightning][INFO] - prediction: 
+[2022-11-01 15:14:12,503][lightning][INFO] - reference : афина уже стемнело пора выключить свет
+[2022-11-01 15:14:12,503][lightning][INFO] - prediction: 
+[2022-11-01 15:14:13,168][lightning][INFO] - reference : сколько будет стоить полет на вертолете
+[2022-11-01 15:14:13,169][lightning][INFO] - prediction: 
+[2022-11-01 15:14:14,348][lightning][INFO] - reference : юбилейным
+[2022-11-01 15:14:14,348][lightning][INFO] - prediction: 
+[2022-11-01 15:14:14,964][lightning][INFO] - reference : хочу посмотреть фильм с элайджей вудом с названием день независимости
+[2022-11-01 15:14:14,964][lightning][INFO] - prediction: 
+[2022-11-01 15:14:15,768][lightning][INFO] - reference : двенадцатая часть сезона четыре доктор кто
+[2022-11-01 15:14:15,768][lightning][INFO] - prediction: 
+[2022-11-01 15:14:16,464][lightning][INFO] - reference : какой курс от тысяч тысяч австралийских долларов
+[2022-11-01 15:14:16,465][lightning][INFO] - prediction: 
+[2022-11-01 15:14:17,258][lightning][INFO] - reference : найди альфа и омега клыкастая братва ультра эйчди
+[2022-11-01 15:14:17,258][lightning][INFO] - prediction: 
+[2022-11-01 15:14:18,029][lightning][INFO] - reference : продать пятьдесят восемь гуарани какая стоимость в швейцарских франках
+[2022-11-01 15:14:18,029][lightning][INFO] - prediction: 
+[2022-11-01 15:14:18,758][lightning][INFO] - reference : напиток тархун ноль пять объемом
+[2022-11-01 15:14:18,759][lightning][INFO] - prediction: отокоео
+[2022-11-01 15:14:19,503][lightning][INFO] - reference : у тебя будет тело дженнифер
+[2022-11-01 15:14:19,503][lightning][INFO] - prediction: 
+[2022-11-01 15:14:20,227][lightning][INFO] - reference : ооо ветком запись
+[2022-11-01 15:14:20,227][lightning][INFO] - prediction: 
+[2022-11-01 15:14:20,780][lightning][INFO] - reference : скажи пожалуйста где здесь запасной выход в отеле
+[2022-11-01 15:14:20,780][lightning][INFO] - prediction: 
+[2022-11-01 15:14:21,433][lightning][INFO] - reference : покажи кино патруль
+[2022-11-01 15:14:21,434][lightning][INFO] - prediction: 
+[2022-11-01 15:14:22,155][lightning][INFO] - reference : афина какая группа играет
+[2022-11-01 15:14:22,156][lightning][INFO] - prediction: 
+[2022-11-01 15:14:23,376][lightning][INFO] - reference : ежик в тумане включай
+[2022-11-01 15:14:23,376][lightning][INFO] - prediction: 
+[2022-11-01 15:14:23,904][lightning][INFO] - reference : покажи мне встречу апл манчестер против манчестер сити
+[2022-11-01 15:14:23,904][lightning][INFO] - prediction: 
+[2022-11-01 15:14:24,460][lightning][INFO] - reference : посмотреть прямой эфир матча апл манчестер челси
+[2022-11-01 15:14:24,460][lightning][INFO] - prediction: 
+[2022-11-01 15:14:25,138][lightning][INFO] - reference : четыре восемьсот девяносто семь двести тридцать один восемнадцать девяносто два
+[2022-11-01 15:14:25,138][lightning][INFO] - prediction: 
+[2022-11-01 15:14:25,597][lightning][INFO] - reference : у тебя найдется фильм халиф аист
+[2022-11-01 15:14:25,598][lightning][INFO] - prediction: 
+[2022-11-01 15:14:26,341][lightning][INFO] - reference : возможности управления
+[2022-11-01 15:14:26,341][lightning][INFO] - prediction: 
+[2022-11-01 15:14:27,109][lightning][INFO] - reference : джой у тебя были ли сексуальные отношения
+[2022-11-01 15:14:27,110][lightning][INFO] - prediction: 
+[2022-11-01 15:14:27,855][lightning][INFO] - reference : хочу посмотреть шпионские страсти
+[2022-11-01 15:14:27,856][lightning][INFO] - prediction: 
+[2022-11-01 15:14:28,855][lightning][INFO] - reference : шесть четыреста пять девятьсот девяносто пять шестьдесят ноль шестьдесят восемь
+[2022-11-01 15:14:28,855][lightning][INFO] - prediction: 
+[2022-11-01 15:14:29,387][lightning][INFO] - reference : повтор
+[2022-11-01 15:14:29,388][lightning][INFO] - prediction: 
+[2022-11-01 15:14:30,671][lightning][INFO] - reference : поставь ка фильм елки
+[2022-11-01 15:14:30,672][lightning][INFO] - prediction: 
+[2022-11-01 15:14:31,374][lightning][INFO] - reference : ты можешь включить мертвое лето
+[2022-11-01 15:14:31,375][lightning][INFO] - prediction: 
+[2022-11-01 15:14:31,906][lightning][INFO] - reference : какой курс песо на третье июня
+[2022-11-01 15:14:31,906][lightning][INFO] - prediction: 
+[2022-11-01 15:14:32,558][lightning][INFO] - reference : у тебя есть лента открытый космос
+[2022-11-01 15:14:32,559][lightning][INFO] - prediction: 
+[2022-11-01 15:14:33,193][lightning][INFO] - reference : амелия время работы
+[2022-11-01 15:14:33,193][lightning][INFO] - prediction: 
+[2022-11-01 15:14:34,052][lightning][INFO] - reference : салют снять деньги близко
+[2022-11-01 15:14:34,052][lightning][INFO] - prediction: 
+[2022-11-01 15:14:34,645][lightning][INFO] - reference : за сколько можно будет обменять юани в россии
+[2022-11-01 15:14:34,645][lightning][INFO] - prediction: 
+[2022-11-01 15:14:35,341][lightning][INFO] - reference : алиса закажи нарзан один литр одна штука
+[2022-11-01 15:14:35,342][lightning][INFO] - prediction: 
+[2022-11-01 15:14:36,099][lightning][INFO] - reference : ооо феррум отзывы
+[2022-11-01 15:14:36,100][lightning][INFO] - prediction: 
+[2022-11-01 15:14:36,997][lightning][INFO] - reference : смотреть трансляцию апл манчестер с астон виллой
+[2022-11-01 15:14:36,997][lightning][INFO] - prediction: 
+[2022-11-01 15:14:37,507][lightning][INFO] - reference : включи фильм охотники за караванами
+[2022-11-01 15:14:37,508][lightning][INFO] - prediction: 
+[2022-11-01 15:14:38,070][lightning][INFO] - reference : расскажи поподробнее про закрывающие документы в отеле
+[2022-11-01 15:14:38,070][lightning][INFO] - prediction: 
+[2022-11-01 15:14:38,615][lightning][INFO] - reference : включи кино вне правил
+[2022-11-01 15:14:38,616][lightning][INFO] - prediction: 
+[2022-11-01 15:14:39,592][lightning][INFO] - reference : салют в каком городе в нидерланды меньше всего жителей
+[2022-11-01 15:14:39,593][lightning][INFO] - prediction: 
+[2022-11-01 15:14:40,680][lightning][INFO] - reference : окей гугл найти популярные фильмы в жанре научная фантастика
+[2022-11-01 15:14:40,680][lightning][INFO] - prediction: 
+[2022-11-01 15:14:41,411][lightning][INFO] - reference : звезда на смотрешке
+[2022-11-01 15:14:41,411][lightning][INFO] - prediction: 
+[2022-11-01 15:14:41,982][lightning][INFO] - reference : первый сезон сериала мастер не на все руки
+[2022-11-01 15:14:41,983][lightning][INFO] - prediction: 
+[2022-11-01 15:14:42,623][lightning][INFO] - reference : матч между ньюкасл юнайтед и норвич сити
+[2022-11-01 15:14:42,623][lightning][INFO] - prediction: 
+[2022-11-01 15:14:43,691][lightning][INFO] - reference : афина предыдущая станция площадь дзержинского
+[2022-11-01 15:14:43,691][lightning][INFO] - prediction: 
+[2022-11-01 15:14:44,277][lightning][INFO] - reference : сбер дай прогноз на сегодня обещают ли снег
+[2022-11-01 15:14:44,277][lightning][INFO] - prediction: 
+[2022-11-01 15:14:44,885][lightning][INFO] - reference : салют пошли поиграем в снежки
+[2022-11-01 15:14:44,886][lightning][INFO] - prediction: 
+[2022-11-01 15:14:45,362][lightning][INFO] - reference : положи мне на телефон тысячу рублей
+[2022-11-01 15:14:45,363][lightning][INFO] - prediction: гроемтем
+[2022-11-01 15:14:45,958][lightning][INFO] - reference : вера юрьевна вечтомова
+[2022-11-01 15:14:45,959][lightning][INFO] - prediction: 
+[2022-11-01 15:14:46,803][lightning][INFO] - reference : алиса включи канал россия передача орел и решка
+[2022-11-01 15:14:46,803][lightning][INFO] - prediction: 
+[2022-11-01 15:14:47,859][lightning][INFO] - reference : наталья абдулаевна
+[2022-11-01 15:14:47,859][lightning][INFO] - prediction: 
+[2022-11-01 15:14:48,663][lightning][INFO] - reference : закажи пожалуйста баскин роббинс четыреста семьдесят миллилитров с фисташкой в пластиковом ведре
+[2022-11-01 15:14:48,663][lightning][INFO] - prediction: 
+[2022-11-01 15:14:49,290][lightning][INFO] - reference : кино альфреда хичкока метро
+[2022-11-01 15:14:49,291][lightning][INFO] - prediction: 
+[2022-11-01 15:14:50,009][lightning][INFO] - reference : стивен спилберг фильм про пирата без руки
+[2022-11-01 15:14:50,009][lightning][INFO] - prediction: 
+[2022-11-01 15:14:50,912][lightning][INFO] - reference : червяковой
+[2022-11-01 15:14:50,913][lightning][INFO] - prediction: 
+[2022-11-01 15:14:51,469][lightning][INFO] - reference : салют ева включи шурмана джой
+[2022-11-01 15:14:51,469][lightning][INFO] - prediction: 
+[2022-11-01 15:14:51,906][lightning][INFO] - reference : богдана александровича
+[2022-11-01 15:14:51,906][lightning][INFO] - prediction: 
+[2022-11-01 15:14:52,712][lightning][INFO] - reference : найди сериал герои
+[2022-11-01 15:14:52,712][lightning][INFO] - prediction: 
+[2022-11-01 15:14:53,355][lightning][INFO] - reference : тофик анатольевич шуруев
+[2022-11-01 15:14:53,356][lightning][INFO] - prediction: 
+[2022-11-01 15:14:54,593][lightning][INFO] - reference : можешь помочь футбольный матч тоттенхэм против манчестер юнайтед
+[2022-11-01 15:14:54,593][lightning][INFO] - prediction: 
+[2022-11-01 15:14:55,746][lightning][INFO] - reference : сбер как назывался дебютный студийный альбом джастина тимберлейка
+[2022-11-01 15:14:55,747][lightning][INFO] - prediction: 
+[2022-11-01 15:14:56,542][lightning][INFO] - reference : адреса банкомата сбербанка
+[2022-11-01 15:14:56,543][lightning][INFO] - prediction: 
+[2022-11-01 15:14:57,173][lightning][INFO] - reference : пошукай мастер и маргарита четыре кей
+[2022-11-01 15:14:57,173][lightning][INFO] - prediction: 
+[2022-11-01 15:14:57,700][lightning][INFO] - reference : арбузные корки
+[2022-11-01 15:14:57,700][lightning][INFO] - prediction: 
+[2022-11-01 15:14:58,392][lightning][INFO] - reference : огненная бригада пожарных включи
+[2022-11-01 15:14:58,393][lightning][INFO] - prediction: 
+[2022-11-01 15:14:58,953][lightning][INFO] - reference : камеди бойз первый выпуск
+[2022-11-01 15:14:58,953][lightning][INFO] - prediction: 
+[2022-11-01 15:14:59,590][lightning][INFO] - reference : помоги нам найти матч между арсеналом и ливерпулем
+[2022-11-01 15:14:59,590][lightning][INFO] - prediction: 
+[2022-11-01 15:15:00,159][lightning][INFO] - reference : убойная сила окко смартбокс
+[2022-11-01 15:15:00,160][lightning][INFO] - prediction: 
+[2022-11-01 15:15:00,726][lightning][INFO] - reference : седьмой сезон сериальчик бруклин девять девять
+[2022-11-01 15:15:00,727][lightning][INFO] - prediction: 
+[2022-11-01 15:15:01,344][lightning][INFO] - reference : наталья алексеевна остапова
+[2022-11-01 15:15:01,345][lightning][INFO] - prediction: 
+[2022-11-01 15:15:02,275][lightning][INFO] - reference : афина какие истории иерусалима ты знаешь
+[2022-11-01 15:15:02,275][lightning][INFO] - prediction: 
+[2022-11-01 15:15:03,174][lightning][INFO] - reference : внутри девятого номера второй сезон
+[2022-11-01 15:15:03,175][lightning][INFO] - prediction: 
+[2022-11-01 15:15:03,745][lightning][INFO] - reference : поставь яркость на двадцать пять процентов через четыре минуты
+[2022-11-01 15:15:03,745][lightning][INFO] - prediction: 
+[2022-11-01 15:15:04,813][lightning][INFO] - reference : давай прямой эфир лестера с арсеналом
+[2022-11-01 15:15:04,814][lightning][INFO] - prediction: 
+[2022-11-01 15:15:05,507][lightning][INFO] - reference : давай поищем футбол английской премьер лиги сити против манчестер юнайтед
+[2022-11-01 15:15:05,507][lightning][INFO] - prediction: 
+[2022-11-01 15:15:06,290][lightning][INFO] - reference : афина побег какого писателя с каторги готовили ишутинцы 
+[2022-11-01 15:15:06,290][lightning][INFO] - prediction: 
+[2022-11-01 15:15:06,854][lightning][INFO] - reference : фильм с леонардо ди каприо где он пытается выжить в одиночку
+[2022-11-01 15:15:06,855][lightning][INFO] - prediction: 
+[2022-11-01 15:15:07,330][lightning][INFO] - reference : какие плюсы парню дает умение садиться на шпагат
+[2022-11-01 15:15:07,330][lightning][INFO] - prediction: 
+[2022-11-01 15:15:07,894][lightning][INFO] - reference : хабаровске
+[2022-11-01 15:15:07,894][lightning][INFO] - prediction: 
+[2022-11-01 15:15:08,630][lightning][INFO] - reference : елена быканова
+[2022-11-01 15:15:08,630][lightning][INFO] - prediction: 
+[2022-11-01 15:15:09,258][lightning][INFO] - reference : включи бра
+[2022-11-01 15:15:09,258][lightning][INFO] - prediction: 
+[2022-11-01 15:15:09,801][lightning][INFO] - reference : раю владимировну
+[2022-11-01 15:15:09,801][lightning][INFO] - prediction: 
+[2022-11-01 15:15:10,422][lightning][INFO] - reference : джой расскажи шутку про ипотеку
+[2022-11-01 15:15:10,423][lightning][INFO] - prediction: 
+[2022-11-01 15:15:11,489][lightning][INFO] - reference : салют банкомат для снятия наличных рядом
+[2022-11-01 15:15:11,489][lightning][INFO] - prediction: 
+[2022-11-01 15:15:12,230][lightning][INFO] - reference : он умер с фалафелем в руке четыре ка
+[2022-11-01 15:15:12,231][lightning][INFO] - prediction: 
+[2022-11-01 15:15:12,667][lightning][INFO] - reference : стивен содерберг картина имеется ли у тебя
+[2022-11-01 15:15:12,667][lightning][INFO] - prediction: 
+[2022-11-01 15:15:13,408][lightning][INFO] - reference : что привлекало внимание пушкина в истории
+[2022-11-01 15:15:13,408][lightning][INFO] - prediction: 
+[2022-11-01 15:15:14,034][lightning][INFO] - reference : салют покажи выписку по счету за прошлый год
+[2022-11-01 15:15:14,034][lightning][INFO] - prediction: 
+[2022-11-01 15:15:15,167][lightning][INFO] - reference : включи фильм нимани
+[2022-11-01 15:15:15,167][lightning][INFO] - prediction: 
+[2022-11-01 15:15:16,000][lightning][INFO] - reference : посоветуй мне армен джигарханян
+[2022-11-01 15:15:16,000][lightning][INFO] - prediction: 
+[2022-11-01 15:15:16,733][lightning][INFO] - reference : ищи на смотрешке канал синергия тв
+[2022-11-01 15:15:16,733][lightning][INFO] - prediction: 
+[2022-11-01 15:15:17,477][lightning][INFO] - reference : нств на смотрешке
+[2022-11-01 15:15:17,477][lightning][INFO] - prediction: 
+[2022-11-01 15:15:18,314][lightning][INFO] - reference : поставь марусю
+[2022-11-01 15:15:18,314][lightning][INFO] - prediction: 
+[2022-11-01 15:15:19,141][lightning][INFO] - reference : давы
+[2022-11-01 15:15:19,141][lightning][INFO] - prediction: 
+[2022-11-01 15:15:19,903][lightning][INFO] - reference : обменять фунты стерлинги на гуарани стоимость обмена какая
+[2022-11-01 15:15:19,904][lightning][INFO] - prediction: 
+[2022-11-01 15:15:20,719][lightning][INFO] - reference : городская поликлиника номер шестьдесят восемь адрес
+[2022-11-01 15:15:20,720][lightning][INFO] - prediction: 
+[2022-11-01 15:15:21,459][lightning][INFO] - reference : джой никого
+[2022-11-01 15:15:21,459][lightning][INFO] - prediction: 
+[2022-11-01 15:15:22,149][lightning][INFO] - reference : лидия вершинина
+[2022-11-01 15:15:22,150][lightning][INFO] - prediction: 
+[2022-11-01 15:15:22,856][lightning][INFO] - reference : у тебя найдется шоу сообщество двенадцать первых эпизодов
+[2022-11-01 15:15:22,857][lightning][INFO] - prediction: 
+[2022-11-01 15:15:23,382][lightning][INFO] - reference : давай я посмотрю аниме
+[2022-11-01 15:15:23,382][lightning][INFO] - prediction: 
+[2022-11-01 15:15:24,125][lightning][INFO] - reference : у тебя найдется афера под прикрытием
+[2022-11-01 15:15:24,126][lightning][INFO] - prediction: 
+[2022-11-01 15:15:24,786][lightning][INFO] - reference : безусловный доход
+[2022-11-01 15:15:24,786][lightning][INFO] - prediction: 
+[2022-11-01 15:15:25,855][lightning][INFO] - reference : а здравствуйте пельмени стародворские медвежье ушко вес четыреста пятьдесят грамм вид начинки свинина говядина
+[2022-11-01 15:15:25,855][lightning][INFO] - prediction: 
+[2022-11-01 15:15:26,922][lightning][INFO] - reference : хочу посмотреть сериал в жанре драма
+[2022-11-01 15:15:26,923][lightning][INFO] - prediction: 
+[2022-11-01 15:15:27,524][lightning][INFO] - reference : ксения александрова
+[2022-11-01 15:15:27,524][lightning][INFO] - prediction: 
+[2022-11-01 15:15:28,040][lightning][INFO] - reference : поставь нам футбольный матч английской премьер лиги астон виллы против манчестер юнайтед
+[2022-11-01 15:15:28,040][lightning][INFO] - prediction: 
+[2022-11-01 15:15:29,022][lightning][INFO] - reference : маршрут эстом
+[2022-11-01 15:15:29,022][lightning][INFO] - prediction: 
+[2022-11-01 15:15:29,587][lightning][INFO] - reference : ты можешь включить драму
+[2022-11-01 15:15:29,587][lightning][INFO] - prediction: 
+[2022-11-01 15:15:30,350][lightning][INFO] - reference : спасибо от сбербанка с кредитной карты в чем причина
+[2022-11-01 15:15:30,350][lightning][INFO] - prediction: 
+[2022-11-01 15:15:31,012][lightning][INFO] - reference : курс китайского юаня на шестое сентября две тысячи девятнадцатого года
+[2022-11-01 15:15:31,013][lightning][INFO] - prediction: 
+[2022-11-01 15:15:31,641][lightning][INFO] - reference : есть ли у тебя люблю твою жену
+[2022-11-01 15:15:31,642][lightning][INFO] - prediction: 
+[2022-11-01 15:15:32,461][lightning][INFO] - reference : сбер найди бен десять
+[2022-11-01 15:15:32,461][lightning][INFO] - prediction: 
+[2022-11-01 15:15:33,359][lightning][INFO] - reference : кинолента трудности выживания поставь ка
+[2022-11-01 15:15:33,360][lightning][INFO] - prediction: 
+[2022-11-01 15:15:33,881][lightning][INFO] - reference : чай липтон тропический
+[2022-11-01 15:15:33,881][lightning][INFO] - prediction: 
+[2022-11-01 15:15:34,495][lightning][INFO] - reference : в отеле есть переговорная комната
+[2022-11-01 15:15:34,496][lightning][INFO] - prediction: 
+[2022-11-01 15:15:35,861][lightning][INFO] - reference : свидание со звездой фулл эйч ди
+[2022-11-01 15:15:35,861][lightning][INFO] - prediction: 
+[2022-11-01 15:15:36,507][lightning][INFO] - reference : салют хочу опять эту песню
+[2022-11-01 15:15:36,508][lightning][INFO] - prediction: 
+[2022-11-01 15:15:37,031][lightning][INFO] - reference : из панка
+[2022-11-01 15:15:37,032][lightning][INFO] - prediction: 
+[2022-11-01 15:15:37,529][lightning][INFO] - reference : кинь деньги на мой номер
+[2022-11-01 15:15:37,529][lightning][INFO] - prediction: 
+[2022-11-01 15:15:38,195][lightning][INFO] - reference : пять семьсот три восемьдесят шесть четыре четыреста семьдесят два
+[2022-11-01 15:15:38,196][lightning][INFO] - prediction: 
+[2022-11-01 15:15:38,743][lightning][INFO] - reference : екатерине рашитовне коневой
+[2022-11-01 15:15:38,744][lightning][INFO] - prediction: 
+[2022-11-01 15:15:39,590][lightning][INFO] - reference : у тебя найдется киношка в жанре видеорецензия
+[2022-11-01 15:15:39,590][lightning][INFO] - prediction: она
+[2022-11-01 15:15:40,131][lightning][INFO] - reference : анатолий козлов
+[2022-11-01 15:15:40,132][lightning][INFO] - prediction: 
+[2022-11-01 15:15:40,653][lightning][INFO] - reference : найди фильм охота
+[2022-11-01 15:15:40,653][lightning][INFO] - prediction: оо
+[2022-11-01 15:15:41,821][lightning][INFO] - reference : запускай супер шоу
+[2022-11-01 15:15:41,821][lightning][INFO] - prediction: 
+[2022-11-01 15:15:42,614][lightning][INFO] - reference : пополните счет сергею он снова без связи
+[2022-11-01 15:15:42,614][lightning][INFO] - prediction: 
+[2022-11-01 15:15:43,361][lightning][INFO] - reference : челябинском
+[2022-11-01 15:15:43,361][lightning][INFO] - prediction: 
+[2022-11-01 15:15:44,036][lightning][INFO] - reference : афина сплюсуйте пожалуйста числа
+[2022-11-01 15:15:44,036][lightning][INFO] - prediction: 
+[2022-11-01 15:15:44,649][lightning][INFO] - reference : в украшениях из янтаря металл не играет декоративной роли
+[2022-11-01 15:15:44,649][lightning][INFO] - prediction: 
+[2022-11-01 15:15:45,282][lightning][INFO] - reference : афина какое число будет в ближайшее воскресенье
+[2022-11-01 15:15:45,282][lightning][INFO] - prediction: 
+[2022-11-01 15:15:45,964][lightning][INFO] - reference : есть ли у тебя киноработа рэйчел выходит замуж
+[2022-11-01 15:15:45,964][lightning][INFO] - prediction: 
+[2022-11-01 15:15:46,634][lightning][INFO] - reference : джой какие виды бутовский полигон ты знаешь
+[2022-11-01 15:15:46,634][lightning][INFO] - prediction: 
+[2022-11-01 15:15:47,431][lightning][INFO] - reference : у тебя есть фильм песнь заката
+[2022-11-01 15:15:47,431][lightning][INFO] - prediction: 
+[2022-11-01 15:15:48,008][lightning][INFO] - reference : закажи эскимо ижевское два пакета
+[2022-11-01 15:15:48,009][lightning][INFO] - prediction: 
+[2022-11-01 15:15:48,698][lightning][INFO] - reference : смотреть сериал слепая
+[2022-11-01 15:15:48,699][lightning][INFO] - prediction: 
+[2022-11-01 15:15:49,224][lightning][INFO] - reference : афина включи русская сказка китобой
+[2022-11-01 15:15:49,224][lightning][INFO] - prediction: 
+[2022-11-01 15:15:50,060][lightning][INFO] - reference : ютьюб моргенштерн вайн
+[2022-11-01 15:15:50,061][lightning][INFO] - prediction: 
+[2022-11-01 15:15:50,854][lightning][INFO] - reference : шахунья
+[2022-11-01 15:15:50,855][lightning][INFO] - prediction: 
+[2022-11-01 15:15:51,520][lightning][INFO] - reference : сбер баланс на карте тридцать семь сорок пять
+[2022-11-01 15:15:51,521][lightning][INFO] - prediction: 
+[2022-11-01 15:15:52,229][lightning][INFO] - reference : оленегорске
+[2022-11-01 15:15:52,230][lightning][INFO] - prediction: 
+[2022-11-01 15:15:52,986][lightning][INFO] - reference : наводчица покажи
+[2022-11-01 15:15:52,986][lightning][INFO] - prediction: 
+[2022-11-01 15:15:53,652][lightning][INFO] - reference : самаре
+[2022-11-01 15:15:53,653][lightning][INFO] - prediction: 
+[2022-11-01 15:15:54,262][lightning][INFO] - reference : афина достала такая жизнь одни неприятности
+[2022-11-01 15:15:54,262][lightning][INFO] - prediction: 
+[2022-11-01 15:15:54,772][lightning][INFO] - reference : включай киношедевр в жанре циничная комедия
+[2022-11-01 15:15:54,772][lightning][INFO] - prediction: 
+[2022-11-01 15:15:55,291][lightning][INFO] - reference : у тебя найдется четырнадцатый эпизод разочарование
+[2022-11-01 15:15:55,291][lightning][INFO] - prediction: 
+[2022-11-01 15:15:56,093][lightning][INFO] - reference : зайди пожалуйста в меню для пополнения счета моего коллеги
+[2022-11-01 15:15:56,094][lightning][INFO] - prediction:  ер
+[2022-11-01 15:15:56,762][lightning][INFO] - reference : джой давай купим мне
+[2022-11-01 15:15:56,763][lightning][INFO] - prediction: 
+[2022-11-01 15:15:57,677][lightning][INFO] - reference : найди серию пять мажор
+[2022-11-01 15:15:57,677][lightning][INFO] - prediction: 
+[2022-11-01 15:15:58,845][lightning][INFO] - reference : афина как можно оформить виртуальную карту
+[2022-11-01 15:15:58,845][lightning][INFO] - prediction: 
+[2022-11-01 15:15:59,610][lightning][INFO] - reference : сбер измени условия по кредиту счет списания денег и дату платежа
+[2022-11-01 15:15:59,611][lightning][INFO] - prediction: 
+[2022-11-01 15:16:00,478][lightning][INFO] - reference : фрегат запись
+[2022-11-01 15:16:00,478][lightning][INFO] - prediction: 
+[2022-11-01 15:16:01,218][lightning][INFO] - reference : джой где можно на следующей неделе подстричь бороду
+[2022-11-01 15:16:01,219][lightning][INFO] - prediction: 
+[2022-11-01 15:16:01,785][lightning][INFO] - reference : играй голубые глаза егор крид
+[2022-11-01 15:16:01,785][lightning][INFO] - prediction: 
+[2022-11-01 15:16:02,237][lightning][INFO] - reference : сверхъестественное третий эпизод
+[2022-11-01 15:16:02,238][lightning][INFO] - prediction: 
+[2022-11-01 15:16:03,363][lightning][INFO] - reference : включи катун нетворк на смотрешке
+[2022-11-01 15:16:03,364][lightning][INFO] - prediction: 
+[2022-11-01 15:16:04,043][lightning][INFO] - reference : отель в турции
+[2022-11-01 15:16:04,044][lightning][INFO] - prediction: 
+[2022-11-01 15:16:04,969][lightning][INFO] - reference : сбер здравствуйте я хочу отключить автоплатеж для моей карты
+[2022-11-01 15:16:04,969][lightning][INFO] - prediction: 
+[2022-11-01 15:16:05,489][lightning][INFO] - reference : велопрогулки
+[2022-11-01 15:16:05,489][lightning][INFO] - prediction: 
+[2022-11-01 15:16:06,005][lightning][INFO] - reference : три триста восемьдесят пять семьсот четыре шестьдесят один девять пять
+[2022-11-01 15:16:06,005][lightning][INFO] - prediction: 
+[2022-11-01 15:16:06,739][lightning][INFO] - reference : в отрыв четыре ка
+[2022-11-01 15:16:06,739][lightning][INFO] - prediction: 
+[2022-11-01 15:16:07,269][lightning][INFO] - reference : сбер вспыш и чудо машинки
+[2022-11-01 15:16:07,269][lightning][INFO] - prediction: 
+[2022-11-01 15:16:07,954][lightning][INFO] - reference : холли берри фильм найди
+[2022-11-01 15:16:07,954][lightning][INFO] - prediction: 
+[2022-11-01 15:16:09,631][lightning][INFO] - reference : у тебя найдется триллер
+[2022-11-01 15:16:09,631][lightning][INFO] - prediction: 
+[2022-11-01 15:16:10,270][lightning][INFO] - reference : посоветуй мне фильмас в жанре драма
+[2022-11-01 15:16:10,270][lightning][INFO] - prediction: 
+[2022-11-01 15:16:11,017][lightning][INFO] - reference : салют ванила скай
+[2022-11-01 15:16:11,018][lightning][INFO] - prediction: 
+[2022-11-01 15:16:11,976][lightning][INFO] - reference : салют чью роль исполнял стивен сигал в фильме нико
+[2022-11-01 15:16:11,976][lightning][INFO] - prediction: 
+[2022-11-01 15:16:12,868][lightning][INFO] - reference : что нового из мира стрельбы из лука подробности
+[2022-11-01 15:16:12,868][lightning][INFO] - prediction: фло
+[2022-11-01 15:16:13,642][lightning][INFO] - reference :  
+[2022-11-01 15:16:13,643][lightning][INFO] - prediction: 
+[2022-11-01 15:16:15,015][lightning][INFO] - reference : сбер что будет с автомобильным рынком в россии
+[2022-11-01 15:16:15,015][lightning][INFO] - prediction: 
+[2022-11-01 15:16:15,911][lightning][INFO] - reference : встреча апл астон виллы с ньюкаслом
+[2022-11-01 15:16:15,911][lightning][INFO] - prediction: 
+[2022-11-01 15:16:17,060][lightning][INFO] - reference : алина ивановна
+[2022-11-01 15:16:17,060][lightning][INFO] - prediction: 
+[2022-11-01 15:16:17,532][lightning][INFO] - reference : ремиксы ютьюб
+[2022-11-01 15:16:17,532][lightning][INFO] - prediction: 
+[2022-11-01 15:16:18,116][lightning][INFO] - reference : сергей эльдарович
+[2022-11-01 15:16:18,116][lightning][INFO] - prediction: 
+[2022-11-01 15:16:18,725][lightning][INFO] - reference : дай нам посмотреть футбольную игру апл брайтон борнмут
+[2022-11-01 15:16:18,726][lightning][INFO] - prediction: 
+[2022-11-01 15:16:19,405][lightning][INFO] - reference : какие виды одинизм ты знаешь
+[2022-11-01 15:16:19,406][lightning][INFO] - prediction: 
+[2022-11-01 15:16:19,926][lightning][INFO] - reference : команда мечты включи ка
+[2022-11-01 15:16:19,927][lightning][INFO] - prediction: 
+[2022-11-01 15:16:20,490][lightning][INFO] - reference : найди кино операция слон
+[2022-11-01 15:16:20,491][lightning][INFO] - prediction: 
+[2022-11-01 15:16:21,029][lightning][INFO] - reference : как называется технология старка которая была представлена в гражданской войне
+[2022-11-01 15:16:21,029][lightning][INFO] - prediction: 
+[2022-11-01 15:16:21,507][lightning][INFO] - reference : запускай третья серия тетрадь смерти
+[2022-11-01 15:16:21,507][lightning][INFO] - prediction: а
+[2022-11-01 15:16:21,920][lightning][INFO] - reference : замира геннадьевна
+[2022-11-01 15:16:21,921][lightning][INFO] - prediction: 
+[2022-11-01 15:16:22,631][lightning][INFO] - reference : по окончании времени работы таймера
+[2022-11-01 15:16:22,631][lightning][INFO] - prediction: 
+[2022-11-01 15:16:23,373][lightning][INFO] - reference : владимир васильевич гусейнов
+[2022-11-01 15:16:23,373][lightning][INFO] - prediction: 
+[2022-11-01 15:16:24,024][lightning][INFO] - reference : попроси консьержа принести бокалы
+[2022-11-01 15:16:24,024][lightning][INFO] - prediction: 
+[2022-11-01 15:16:24,549][lightning][INFO] - reference : айтэч где находится
+[2022-11-01 15:16:24,550][lightning][INFO] - prediction: 
+[2022-11-01 15:16:25,116][lightning][INFO] - reference : сбер какие пасодобль ты знаешь
+[2022-11-01 15:16:25,116][lightning][INFO] - prediction: 
+[2022-11-01 15:16:25,787][lightning][INFO] - reference : татьяна васильева
+[2022-11-01 15:16:25,787][lightning][INFO] - prediction: 
+[2022-11-01 15:16:26,325][lightning][INFO] - reference : дианкой корешковой
+[2022-11-01 15:16:26,325][lightning][INFO] - prediction: 
+[2022-11-01 15:16:26,960][lightning][INFO] - reference : сбер курс фунта стерлингов в ближайшем офисе банка
+[2022-11-01 15:16:26,961][lightning][INFO] - prediction: 
+[2022-11-01 15:16:27,799][lightning][INFO] - reference : романтический фильм где снимался майлз теллер и зак эфрон
+[2022-11-01 15:16:27,799][lightning][INFO] - prediction: 
+[2022-11-01 15:16:28,580][lightning][INFO] - reference : нужно записываться или всегда есть свободные места
+[2022-11-01 15:16:28,580][lightning][INFO] - prediction: 
+[2022-11-01 15:16:29,142][lightning][INFO] - reference : какие слабоалкогольные какие слабоалкогольные
+[2022-11-01 15:16:29,143][lightning][INFO] - prediction: 
+[2022-11-01 15:16:29,764][lightning][INFO] - reference : битлджус
+[2022-11-01 15:16:29,764][lightning][INFO] - prediction: 
+[2022-11-01 15:16:30,491][lightning][INFO] - reference : пятьсот рублей закинь мне на мобильный счет
+[2022-11-01 15:16:30,491][lightning][INFO] - prediction: ос
+[2022-11-01 15:16:31,049][lightning][INFO] - reference : какую длину имеет самый длинный подвесной пешеходный мост в мире
+[2022-11-01 15:16:31,050][lightning][INFO] - prediction: 
+[2022-11-01 15:16:31,845][lightning][INFO] - reference : джой отправь денег на мамин номер
+[2022-11-01 15:16:31,845][lightning][INFO] - prediction: 
+[2022-11-01 15:16:33,109][lightning][INFO] - reference : фильм убийство по пятницам включи
+[2022-11-01 15:16:33,110][lightning][INFO] - prediction: 
+[2022-11-01 15:16:33,849][lightning][INFO] - reference : кто главный композитор кинокомедии джентльмены удачи
+[2022-11-01 15:16:33,850][lightning][INFO] - prediction: 
+[2022-11-01 15:16:34,671][lightning][INFO] - reference : ливерпуль арсенал
+[2022-11-01 15:16:34,672][lightning][INFO] - prediction: 
+[2022-11-01 15:16:35,873][lightning][INFO] - reference : во сколько будет готов наш заказ
+[2022-11-01 15:16:35,873][lightning][INFO] - prediction: 
+[2022-11-01 15:16:36,615][lightning][INFO] - reference : вруби пранки алекса муви
+[2022-11-01 15:16:36,616][lightning][INFO] - prediction: 
+[2022-11-01 15:16:37,625][lightning][INFO] - reference : поиграй со мной в апп повелители сфер
+[2022-11-01 15:16:37,625][lightning][INFO] - prediction: 
+[2022-11-01 15:16:38,328][lightning][INFO] - reference : михаил прокофьев
+[2022-11-01 15:16:38,328][lightning][INFO] - prediction: 
+[2022-11-01 15:16:38,927][lightning][INFO] - reference : покажи киношку чудак из пятого б
+[2022-11-01 15:16:38,928][lightning][INFO] - prediction: 
+[2022-11-01 15:16:39,635][lightning][INFO] - reference : девять сто сорок четыре четыре пять шесть шестьдесят шесть двадцать два
+[2022-11-01 15:16:39,635][lightning][INFO] - prediction: 
+[2022-11-01 15:16:40,630][lightning][INFO] - reference : большая азия эйч ди на смотрешке
+[2022-11-01 15:16:40,631][lightning][INFO] - prediction: 
+[2022-11-01 15:16:41,296][lightning][INFO] - reference : поищи матч боец на тв
+[2022-11-01 15:16:41,297][lightning][INFO] - prediction: 
+[2022-11-01 15:16:42,019][lightning][INFO] - reference : джой посмотреть канал восток тв
+[2022-11-01 15:16:42,019][lightning][INFO] - prediction: 
+[2022-11-01 15:16:42,905][lightning][INFO] - reference : игра на смотрешке
+[2022-11-01 15:16:42,906][lightning][INFO] - prediction: 
+[2022-11-01 15:16:43,716][lightning][INFO] - reference : хочу посмотреть рубль тв на смотрешке
+[2022-11-01 15:16:43,716][lightning][INFO] - prediction: 
+[2022-11-01 15:16:44,346][lightning][INFO] - reference : тамара ивановна
+[2022-11-01 15:16:44,346][lightning][INFO] - prediction: 
+[2022-11-01 15:16:44,904][lightning][INFO] - reference : дэдпул запусти
+[2022-11-01 15:16:44,905][lightning][INFO] - prediction: 
+[2022-11-01 15:16:45,667][lightning][INFO] - reference : футбол английской премьер лиги челси против астон виллы
+[2022-11-01 15:16:45,667][lightning][INFO] - prediction: 
+[2022-11-01 15:16:46,276][lightning][INFO] - reference : дарья климова
+[2022-11-01 15:16:46,276][lightning][INFO] - prediction: 
+[2022-11-01 15:16:46,942][lightning][INFO] - reference : сериал гранд отель пятый сезон четырнадцатая серия
+[2022-11-01 15:16:46,943][lightning][INFO] - prediction: 
+[2022-11-01 15:16:47,633][lightning][INFO] - reference : хочу обменять три английских фунтов
+[2022-11-01 15:16:47,633][lightning][INFO] - prediction: 
+[2022-11-01 15:16:48,288][lightning][INFO] - reference : домовой ближайший
+[2022-11-01 15:16:48,288][lightning][INFO] - prediction: 
+[2022-11-01 15:16:48,936][lightning][INFO] - reference : поставь на смотрешке телеканал бокс тв плюс
+[2022-11-01 15:16:48,936][lightning][INFO] - prediction: 
+[2022-11-01 15:16:49,648][lightning][INFO] - reference : сороковая серия восьмой сезон сериал шерлок
+[2022-11-01 15:16:49,648][lightning][INFO] - prediction: 
+[2022-11-01 15:16:50,247][lightning][INFO] - reference : барбекю билет
+[2022-11-01 15:16:50,247][lightning][INFO] - prediction: 
+[2022-11-01 15:16:51,724][lightning][INFO] - reference : утрехт
+[2022-11-01 15:16:51,725][lightning][INFO] - prediction: 
+[2022-11-01 15:16:52,615][lightning][INFO] - reference : набери где дракон
+[2022-11-01 15:16:52,616][lightning][INFO] - prediction: 
+[2022-11-01 15:16:53,174][lightning][INFO] - reference : замира тимошенко
+[2022-11-01 15:16:53,174][lightning][INFO] - prediction: 
+[2022-11-01 15:16:54,068][lightning][INFO] - reference : трофимову
+[2022-11-01 15:16:54,068][lightning][INFO] - prediction: 
+[2022-11-01 15:16:54,970][lightning][INFO] - reference : популярные фильмы в жанре шоу
+[2022-11-01 15:16:54,970][lightning][INFO] - prediction: 
+[2022-11-01 15:16:55,734][lightning][INFO] - reference : шестая серия сезон пять шоу отбросы
+[2022-11-01 15:16:55,734][lightning][INFO] - prediction: 
+[2022-11-01 15:16:56,578][lightning][INFO] - reference : включи занимательный сериал в жанре экшен
+[2022-11-01 15:16:56,579][lightning][INFO] - prediction: 
+[2022-11-01 15:16:57,210][lightning][INFO] - reference : найти бежать нельзя погибнуть
+[2022-11-01 15:16:57,211][lightning][INFO] - prediction: 
+[2022-11-01 15:16:58,641][lightning][INFO] - reference : какие фильмы ужасов посмотреть
+[2022-11-01 15:16:58,641][lightning][INFO] - prediction: 
+[2022-11-01 15:16:59,322][lightning][INFO] - reference : когда по времени можно сыграть в мини гольф на территории отеля
+[2022-11-01 15:16:59,323][lightning][INFO] - prediction: 
+[2022-11-01 15:17:00,004][lightning][INFO] - reference : ооо тбм
+[2022-11-01 15:17:00,004][lightning][INFO] - prediction: 
+[2022-11-01 15:17:00,790][lightning][INFO] - reference : хочу трансляцию матча манчестер сити сити
+[2022-11-01 15:17:00,791][lightning][INFO] - prediction: 
+[2022-11-01 15:17:01,636][lightning][INFO] - reference : включи фильм пятьсот дней лета
+[2022-11-01 15:17:01,636][lightning][INFO] - prediction: 
+[2022-11-01 15:17:02,755][lightning][INFO] - reference : шесть шестьсот шестьдесят восемь сто тридцать семь десять тридцать шесть
+[2022-11-01 15:17:02,756][lightning][INFO] - prediction: 
+[2022-11-01 15:17:03,414][lightning][INFO] - reference : а тебе
+[2022-11-01 15:17:03,414][lightning][INFO] - prediction: 
+[2022-11-01 15:17:04,012][lightning][INFO] - reference : у тебя есть хостел
+[2022-11-01 15:17:04,012][lightning][INFO] - prediction: 
+[2022-11-01 15:17:04,623][lightning][INFO] - reference : аткарске
+[2022-11-01 15:17:04,624][lightning][INFO] - prediction: 
+[2022-11-01 15:17:05,258][lightning][INFO] - reference : джой какие премии оскар за лучшую песню ты знаешь
+[2022-11-01 15:17:05,258][lightning][INFO] - prediction: 
+[2022-11-01 15:17:06,012][lightning][INFO] - reference : салют как называется увеличение реального производства продукции в национальной экономике за определенный период времени
+[2022-11-01 15:17:06,012][lightning][INFO] - prediction: 
+[2022-11-01 15:17:06,727][lightning][INFO] - reference : штрафбат алексея учителя
+[2022-11-01 15:17:06,728][lightning][INFO] - prediction: 
+[2022-11-01 15:17:07,486][lightning][INFO] - reference : гуанчжоу
+[2022-11-01 15:17:07,486][lightning][INFO] - prediction: 
+[2022-11-01 15:17:08,862][lightning][INFO] - reference : пополни баланс телефона восемь девятьсот пять сорок пять сорок пять шестьдесят восемь шестьдесят восемь семьдесят два на пятьдесят рублей с подписью привет родная
+[2022-11-01 15:17:08,863][lightning][INFO] - prediction: 
+[2022-11-01 15:17:09,669][lightning][INFO] - reference : фатима эдуардовна
+[2022-11-01 15:17:09,669][lightning][INFO] - prediction: 
+[2022-11-01 15:17:10,357][lightning][INFO] - reference : у тебя будет ненаучная фантастика
+[2022-11-01 15:17:10,358][lightning][INFO] - prediction: 
+[2022-11-01 15:17:10,905][lightning][INFO] - reference : покажи космические яйца
+[2022-11-01 15:17:10,905][lightning][INFO] - prediction: 
+[2022-11-01 15:17:11,879][lightning][INFO] - reference : алиса мон клипы
+[2022-11-01 15:17:11,879][lightning][INFO] - prediction: 
+[2022-11-01 15:17:12,893][lightning][INFO] - reference : выведи мне варианты актер стивен сигал
+[2022-11-01 15:17:12,894][lightning][INFO] - prediction: 
+[2022-11-01 15:17:13,560][lightning][INFO] - reference : у тебя найдется первый эпизод тиджей энд ру
+[2022-11-01 15:17:13,560][lightning][INFO] - prediction: 
+[2022-11-01 15:17:14,798][lightning][INFO] - reference : продажа перуанских солей в песо
+[2022-11-01 15:17:14,798][lightning][INFO] - prediction: 
+[2022-11-01 15:17:15,547][lightning][INFO] - reference : орел и решка
+[2022-11-01 15:17:15,547][lightning][INFO] - prediction: 
+[2022-11-01 15:17:16,993][lightning][INFO] - reference : афина какая песня приносит главный коммерческий успех
+[2022-11-01 15:17:16,993][lightning][INFO] - prediction: 
+[2022-11-01 15:17:17,683][lightning][INFO] - reference : покажи первые три фильма звездных войн
+[2022-11-01 15:17:17,684][lightning][INFO] - prediction: 
+[2022-11-01 15:17:18,284][lightning][INFO] - reference : барабинск
+[2022-11-01 15:17:18,285][lightning][INFO] - prediction: 
+[2022-11-01 15:17:18,983][lightning][INFO] - reference : афина запустить любимое кино
+[2022-11-01 15:17:18,984][lightning][INFO] - prediction: 
+[2022-11-01 15:17:19,472][lightning][INFO] - reference : видосы о разводах
+[2022-11-01 15:17:19,473][lightning][INFO] - prediction: 
+[2022-11-01 15:17:20,064][lightning][INFO] - reference : подольск
+[2022-11-01 15:17:20,064][lightning][INFO] - prediction: 
+[2022-11-01 15:17:20,780][lightning][INFO] - reference : включи мне пираты карибского моря секрет сундука мертвеца
+[2022-11-01 15:17:20,780][lightning][INFO] - prediction: 
+[2022-11-01 15:17:21,616][lightning][INFO] - reference : это жизнь
+[2022-11-01 15:17:21,617][lightning][INFO] - prediction: 
+[2022-11-01 15:17:24,889][lightning][INFO] - reference : салют заверши работу через пятнадцать минут
+[2022-11-01 15:17:24,889][lightning][INFO] - prediction: 
+[2022-11-01 15:17:25,592][lightning][INFO] - reference : врубай фильм побережье африки
+[2022-11-01 15:17:25,593][lightning][INFO] - prediction: 
+[2022-11-01 15:17:26,246][lightning][INFO] - reference : включи детифоникс
+[2022-11-01 15:17:26,246][lightning][INFO] - prediction: впоро
+[2022-11-01 15:17:27,020][lightning][INFO] - reference : у два
+[2022-11-01 15:17:27,020][lightning][INFO] - prediction: 
+[2022-11-01 15:17:27,650][lightning][INFO] - reference : вруби калейдоскоп на телевизоре
+[2022-11-01 15:17:27,650][lightning][INFO] - prediction: 
+[2022-11-01 15:17:28,277][lightning][INFO] - reference : показывай романтик муви
+[2022-11-01 15:17:28,278][lightning][INFO] - prediction: 
+[2022-11-01 15:17:28,719][lightning][INFO] - reference : покажи мне на смотрешке тв три эйч ди
+[2022-11-01 15:17:28,719][lightning][INFO] - prediction: 
+[2022-11-01 15:17:29,429][lightning][INFO] - reference : в чьих трудах был заложен фундамент механистической картины мира и механистического мировоззрения
+[2022-11-01 15:17:29,430][lightning][INFO] - prediction: а
+[2022-11-01 15:17:30,284][lightning][INFO] - reference : покажи небо
+[2022-11-01 15:17:30,284][lightning][INFO] - prediction: 
+[2022-11-01 15:17:31,241][lightning][INFO] - reference : восьмой сезон сериал от а до я
+[2022-11-01 15:17:31,242][lightning][INFO] - prediction: ооко ка боток
+[2022-11-01 15:17:31,750][lightning][INFO] - reference : часть восемнадцать третьего сезона виктория
+[2022-11-01 15:17:31,751][lightning][INFO] - prediction: 
+[2022-11-01 15:17:32,169][lightning][INFO] - reference : мартина пирсона кинчик искать
+[2022-11-01 15:17:32,170][lightning][INFO] - prediction: 
+[2022-11-01 15:17:32,849][lightning][INFO] - reference : дудкиной
+[2022-11-01 15:17:32,850][lightning][INFO] - prediction: 
+[2022-11-01 15:17:33,959][lightning][INFO] - reference : серия четыре двенадцатый сезон маньяк
+[2022-11-01 15:17:33,959][lightning][INFO] - prediction: 
+[2022-11-01 15:17:34,428][lightning][INFO] - reference : беларусь двадцать четыре на смотрешке
+[2022-11-01 15:17:34,428][lightning][INFO] - prediction: 
+[2022-11-01 15:17:34,951][lightning][INFO] - reference : уточните пожалуйста есть ли тут прогулки на лошадях
+[2022-11-01 15:17:34,951][lightning][INFO] - prediction: 
+[2022-11-01 15:17:35,712][lightning][INFO] - reference : сбер утреннюю музыку
+[2022-11-01 15:17:35,712][lightning][INFO] - prediction: 
+[2022-11-01 15:17:36,242][lightning][INFO] - reference : дрон жигалов
+[2022-11-01 15:17:36,242][lightning][INFO] - prediction: 
+[2022-11-01 15:17:37,171][lightning][INFO] - reference : белебея
+[2022-11-01 15:17:37,172][lightning][INFO] - prediction: 
+[2022-11-01 15:17:38,087][lightning][INFO] - reference : включи ростислава плятта
+[2022-11-01 15:17:38,088][lightning][INFO] - prediction: оо
+[2022-11-01 15:17:38,954][lightning][INFO] - reference : найти демоны
+[2022-11-01 15:17:38,954][lightning][INFO] - prediction: 
+[2022-11-01 15:17:40,333][lightning][INFO] - reference : двести пятьдесят ноль триста два пятьдесят два семьсот тринадцать
+[2022-11-01 15:17:40,334][lightning][INFO] - prediction: 
+[2022-11-01 15:17:40,905][lightning][INFO] - reference : один пять шесть шесть один семь два ноль семь три пять
+[2022-11-01 15:17:40,905][lightning][INFO] - prediction: 
+[2022-11-01 15:17:41,647][lightning][INFO] - reference : расскажи про салоны связи в отеле
+[2022-11-01 15:17:41,648][lightning][INFO] - prediction: 
+[2022-11-01 15:17:42,354][lightning][INFO] - reference : ты можешь показать на смотрешке передачу фэшн ти ви четыре ка
+[2022-11-01 15:17:42,355][lightning][INFO] - prediction: 
+[2022-11-01 15:17:42,922][lightning][INFO] - reference : трансляция между манчестер сити и лестером
+[2022-11-01 15:17:42,923][lightning][INFO] - prediction: 
+[2022-11-01 15:17:43,402][lightning][INFO] - reference : серова
+[2022-11-01 15:17:43,403][lightning][INFO] - prediction: 
+[2022-11-01 15:17:43,995][lightning][INFO] - reference : открой телеканал дождь на телевизоре
+[2022-11-01 15:17:43,996][lightning][INFO] - prediction:  
+[2022-11-01 15:17:44,564][lightning][INFO] - reference : седьмой сезон сериал черные паруса
+[2022-11-01 15:17:44,564][lightning][INFO] - prediction: 
+[2022-11-01 15:17:45,744][lightning][INFO] - reference : у тебя будет сериал флэш часть двадцать два
+[2022-11-01 15:17:45,744][lightning][INFO] - prediction: 
+[2022-11-01 15:17:46,387][lightning][INFO] - reference : сериал я эрл и умирающая девушка вторая серия
+[2022-11-01 15:17:46,387][lightning][INFO] - prediction: 
+[2022-11-01 15:17:47,098][lightning][INFO] - reference : афина включи билли илиш
+[2022-11-01 15:17:47,099][lightning][INFO] - prediction: 
+[2022-11-01 15:17:47,781][lightning][INFO] - reference : покажи рейс в окару из риверсайда
+[2022-11-01 15:17:47,782][lightning][INFO] - prediction: 
+[2022-11-01 15:17:48,619][lightning][INFO] - reference : в среду в боксе будет
+[2022-11-01 15:17:48,620][lightning][INFO] - prediction: 
+[2022-11-01 15:17:49,318][lightning][INFO] - reference : урае
+[2022-11-01 15:17:49,319][lightning][INFO] - prediction: 
+[2022-11-01 15:17:49,925][lightning][INFO] - reference : фото технобум
+[2022-11-01 15:17:49,926][lightning][INFO] - prediction: 
+[2022-11-01 15:17:50,635][lightning][INFO] - reference : у тебя в списке есть кинематографический фильм нат гео таинственные осьминоги
+[2022-11-01 15:17:50,635][lightning][INFO] - prediction: 
+[2022-11-01 15:17:51,885][lightning][INFO] - reference : пополни номер моего дедушки на три тысячи девятьсот семьдесят три рубля
+[2022-11-01 15:17:51,886][lightning][INFO] - prediction: 
+[2022-11-01 15:17:52,839][lightning][INFO] - reference : сбер прошу уменьшить размер минимального платежа по карте
+[2022-11-01 15:17:52,839][lightning][INFO] - prediction: 
+[2022-11-01 15:17:53,460][lightning][INFO] - reference : александрой шиляевой
+[2022-11-01 15:17:53,460][lightning][INFO] - prediction: 
+[2022-11-01 15:17:54,506][lightning][INFO] - reference : ассистент какие романтические предложения существуют
+[2022-11-01 15:17:54,506][lightning][INFO] - prediction: 
+[2022-11-01 15:17:55,193][lightning][INFO] - reference : кино где снимался жерар депардье который называется собачья жизнь
+[2022-11-01 15:17:55,193][lightning][INFO] - prediction: т н
+[2022-11-01 15:17:55,706][lightning][INFO] - reference : найти фильм в жанре аниме
+[2022-11-01 15:17:55,706][lightning][INFO] - prediction: 
+[2022-11-01 15:17:56,254][lightning][INFO] - reference : алена пащенко
+[2022-11-01 15:17:56,255][lightning][INFO] - prediction: 
+[2022-11-01 15:17:56,789][lightning][INFO] - reference : у тебя есть картина снежные гонки
+[2022-11-01 15:17:56,789][lightning][INFO] - prediction: 
+[2022-11-01 15:17:57,581][lightning][INFO] - reference : возможно ли раннее бронирование в этом отеле расскажи поподробнее
+[2022-11-01 15:17:57,581][lightning][INFO] - prediction: 
+[2022-11-01 15:17:58,272][lightning][INFO] - reference : салют поставь канал телевидения охотник и рыболов
+[2022-11-01 15:17:58,272][lightning][INFO] - prediction: 
+[2022-11-01 15:17:59,019][lightning][INFO] - reference : фильм с жигуновым
+[2022-11-01 15:17:59,019][lightning][INFO] - prediction: 
+[2022-11-01 15:17:59,681][lightning][INFO] - reference : зеленоградск
+[2022-11-01 15:17:59,681][lightning][INFO] - prediction: 
+[2022-11-01 15:18:00,248][lightning][INFO] - reference : стоимость обмена тысячи белорусских рублей в перуанские соли
+[2022-11-01 15:18:00,249][lightning][INFO] - prediction: о мтре
+[2022-11-01 15:18:00,876][lightning][INFO] - reference : найди советскую комедию восьмидесятых годов
+[2022-11-01 15:18:00,876][lightning][INFO] - prediction: 
+[2022-11-01 15:18:02,196][lightning][INFO] - reference : установи жестокий мир мужчин
+[2022-11-01 15:18:02,197][lightning][INFO] - prediction: 
+[2022-11-01 15:18:02,755][lightning][INFO] - reference : василия григорьевича байрамова
+[2022-11-01 15:18:02,755][lightning][INFO] - prediction: 
+[2022-11-01 15:18:03,314][lightning][INFO] - reference : афина к какому архитектурному стилю относится
+[2022-11-01 15:18:03,314][lightning][INFO] - prediction: 
+[2022-11-01 15:18:04,124][lightning][INFO] - reference : новые видеоролики
+[2022-11-01 15:18:04,124][lightning][INFO] - prediction: 
+[2022-11-01 15:18:04,801][lightning][INFO] - reference : анне марковой
+[2022-11-01 15:18:04,801][lightning][INFO] - prediction: 
+[2022-11-01 15:18:05,462][lightning][INFO] - reference : найди на смотрешке лдпр тв
+[2022-11-01 15:18:05,462][lightning][INFO] - prediction: 
+[2022-11-01 15:18:06,222][lightning][INFO] - reference : открой мне брюс уиллис
+[2022-11-01 15:18:06,223][lightning][INFO] - prediction: 
+[2022-11-01 15:18:06,707][lightning][INFO] - reference : покажи в гостях у сказки на тв
+[2022-11-01 15:18:06,708][lightning][INFO] - prediction: 
+[2022-11-01 15:18:07,529][lightning][INFO] - reference : григорию
+[2022-11-01 15:18:07,530][lightning][INFO] - prediction: 
+[2022-11-01 15:18:08,118][lightning][INFO] - reference : ассистент какие клубы есть рядом с отелем
+[2022-11-01 15:18:08,118][lightning][INFO] - prediction: а
+[2022-11-01 15:18:08,985][lightning][INFO] - reference : у тебя найдется киноха про виражи и повороты
+[2022-11-01 15:18:08,985][lightning][INFO] - prediction: 
+[2022-11-01 15:18:09,512][lightning][INFO] - reference : ютьюб покажи халех адхами нава
+[2022-11-01 15:18:09,512][lightning][INFO] - prediction: 
+[2022-11-01 15:18:10,560][lightning][INFO] - reference : записная книжка кристина сто пятьдесят рублей на мобильный
+[2022-11-01 15:18:10,560][lightning][INFO] - prediction: 
+[2022-11-01 15:18:11,385][lightning][INFO] - reference : концерт милен фармер две тысячи девятнадцать
+[2022-11-01 15:18:11,386][lightning][INFO] - prediction: 
+[2022-11-01 15:18:11,934][lightning][INFO] - reference : шесть пуль
+[2022-11-01 15:18:11,935][lightning][INFO] - prediction: 
+[2022-11-01 15:18:12,347][lightning][INFO] - reference : галина султанова
+[2022-11-01 15:18:12,347][lightning][INFO] - prediction: 
+[2022-11-01 15:18:13,134][lightning][INFO] - reference : римма анатольевна федоренко
+[2022-11-01 15:18:13,134][lightning][INFO] - prediction: 
+[2022-11-01 15:18:13,768][lightning][INFO] - reference : ультра эйч ди
+[2022-11-01 15:18:13,768][lightning][INFO] - prediction: 
+[2022-11-01 15:18:14,256][lightning][INFO] - reference : скажи пожалуйста когда был основан сбербанк
+[2022-11-01 15:18:14,257][lightning][INFO] - prediction: 
+[2022-11-01 15:18:14,917][lightning][INFO] - reference : найди сериал карпов
+[2022-11-01 15:18:14,917][lightning][INFO] - prediction: 
+[2022-11-01 15:18:15,726][lightning][INFO] - reference : вода аква минерале негазированная два литра
+[2022-11-01 15:18:15,726][lightning][INFO] - prediction: 
+[2022-11-01 15:18:16,190][lightning][INFO] - reference : салют дай мне посмотреть
+[2022-11-01 15:18:16,191][lightning][INFO] - prediction: 
+[2022-11-01 15:18:17,202][lightning][INFO] - reference : восемьдесят два пятьдесят пять двадцать восемь девятьсот пятнадцать
+[2022-11-01 15:18:17,202][lightning][INFO] - prediction: 
+[2022-11-01 15:18:17,920][lightning][INFO] - reference : твое бикини в моем чемодане открой
+[2022-11-01 15:18:17,921][lightning][INFO] - prediction: 
+[2022-11-01 15:18:20,179][lightning][INFO] - reference : есть ли круглосуточный магазин в отеле если нет то где ближайший магазин находится неподалеку от отеля
+[2022-11-01 15:18:20,179][lightning][INFO] - prediction: 
+[2022-11-01 15:18:20,625][lightning][INFO] - reference : оксана немцева
+[2022-11-01 15:18:20,625][lightning][INFO] - prediction: 
+[2022-11-01 15:18:21,293][lightning][INFO] - reference : в твоем каталоге есть милая картина в жанре научная фантастика
+[2022-11-01 15:18:21,294][lightning][INFO] - prediction: 
+[2022-11-01 15:18:21,933][lightning][INFO] - reference : волгореченск
+[2022-11-01 15:18:21,934][lightning][INFO] - prediction: 
+[2022-11-01 15:18:22,567][lightning][INFO] - reference : тайни тетл энд литл лизэд адвенчез ютюб
+[2022-11-01 15:18:22,567][lightning][INFO] - prediction: елгркбл
+[2022-11-01 15:18:23,084][lightning][INFO] - reference : горнозаводск
+[2022-11-01 15:18:23,085][lightning][INFO] - prediction: 
+[2022-11-01 15:18:23,642][lightning][INFO] - reference : салют запусти в гостях у сказки
+[2022-11-01 15:18:23,642][lightning][INFO] - prediction: 
+[2022-11-01 15:18:24,138][lightning][INFO] - reference : дмитрий валентинович посохин
+[2022-11-01 15:18:24,139][lightning][INFO] - prediction: 
+[2022-11-01 15:18:24,782][lightning][INFO] - reference : тверстом маршрут
+[2022-11-01 15:18:24,782][lightning][INFO] - prediction: 
+[2022-11-01 15:18:25,427][lightning][INFO] - reference :  
+[2022-11-01 15:18:25,427][lightning][INFO] - prediction: 
+[2022-11-01 15:18:26,273][lightning][INFO] - reference : ассистент купи мне средство для мытья пола глорикс
+[2022-11-01 15:18:26,273][lightning][INFO] - prediction: 
+[2022-11-01 15:18:27,053][lightning][INFO] - reference : запускай личный рекорд
+[2022-11-01 15:18:27,053][lightning][INFO] - prediction: 
+[2022-11-01 15:18:27,682][lightning][INFO] - reference : амирхан масаев
+[2022-11-01 15:18:27,683][lightning][INFO] - prediction: 
+[2022-11-01 15:18:28,130][lightning][INFO] - reference : запусти кинематографическую ленту в жанре путешествия
+[2022-11-01 15:18:28,130][lightning][INFO] - prediction: 
+[2022-11-01 15:18:28,798][lightning][INFO] - reference : сбер до какого возраста у китообразных длится замедленный рост тела
+[2022-11-01 15:18:28,798][lightning][INFO] - prediction: 
+[2022-11-01 15:18:29,380][lightning][INFO] - reference : джой какие эмоции тебе не нравятся
+[2022-11-01 15:18:29,380][lightning][INFO] - prediction: 
+[2022-11-01 15:18:30,533][lightning][INFO] - reference : включи дрянные промоутеры
+[2022-11-01 15:18:30,533][lightning][INFO] - prediction: 
+[2022-11-01 15:18:31,181][lightning][INFO] - reference : алиса закажи лук репчатый один килограмм
+[2022-11-01 15:18:31,181][lightning][INFO] - prediction: 
+[2022-11-01 15:18:32,271][lightning][INFO] - reference : мастера секса серия одиннадцать
+[2022-11-01 15:18:32,272][lightning][INFO] - prediction: 
+[2022-11-01 15:18:32,919][lightning][INFO] - reference : салют к какому тербанку относится петрозаводск
+[2022-11-01 15:18:32,919][lightning][INFO] - prediction: 
+[2022-11-01 15:18:33,394][lightning][INFO] - reference : включай на тв охота и рыбалка
+[2022-11-01 15:18:33,394][lightning][INFO] - prediction: 
+[2022-11-01 15:18:34,157][lightning][INFO] - reference : какие виды карбиды ты знаешь
+[2022-11-01 15:18:34,158][lightning][INFO] - prediction: 
+[2022-11-01 15:18:34,647][lightning][INFO] - reference : выведи мне кинематографический фильм все что у меня есть
+[2022-11-01 15:18:34,648][lightning][INFO] - prediction: 
+[2022-11-01 15:18:35,290][lightning][INFO] - reference : покажи мне тнв на тв
+[2022-11-01 15:18:35,291][lightning][INFO] - prediction: 
+[2022-11-01 15:18:35,828][lightning][INFO] - reference : есть ли у тебя побег
+[2022-11-01 15:18:35,828][lightning][INFO] - prediction: 
+[2022-11-01 15:18:36,317][lightning][INFO] - reference : жекич дубровский
+[2022-11-01 15:18:36,317][lightning][INFO] - prediction: 
+[2022-11-01 15:18:36,950][lightning][INFO] - reference : джой включи сри хандред плас
+[2022-11-01 15:18:36,950][lightning][INFO] - prediction: 
+[2022-11-01 15:18:37,670][lightning][INFO] - reference : белый воротничок двенадцатый сезон
+[2022-11-01 15:18:37,671][lightning][INFO] - prediction: 
+[2022-11-01 15:18:38,868][lightning][INFO] - reference : цель поездки крупное почтовое отделение с банкоматом
+[2022-11-01 15:18:38,868][lightning][INFO] - prediction: 
+[2022-11-01 15:18:39,689][lightning][INFO] - reference : джой переведи лизе и напиши вкусный ужин на двоих
+[2022-11-01 15:18:39,689][lightning][INFO] - prediction: 
+[2022-11-01 15:18:40,335][lightning][INFO] - reference : тьма эпизод пять
+[2022-11-01 15:18:40,335][lightning][INFO] - prediction: 
+[2022-11-01 15:18:40,817][lightning][INFO] - reference : хочу посмотреть кино стажер
+[2022-11-01 15:18:40,817][lightning][INFO] - prediction: 
+[2022-11-01 15:18:41,349][lightning][INFO] - reference : киношка хот дог
+[2022-11-01 15:18:41,349][lightning][INFO] - prediction: 
+[2022-11-01 15:18:42,080][lightning][INFO] - reference : есть ли у тебя аномализа
+[2022-11-01 15:18:42,081][lightning][INFO] - prediction: 
+[2022-11-01 15:18:42,765][lightning][INFO] - reference : дневник памяти
+[2022-11-01 15:18:42,765][lightning][INFO] - prediction: 
+[2022-11-01 15:18:43,414][lightning][INFO] - reference : что получали на олимпийских играх в древней греции
+[2022-11-01 15:18:43,415][lightning][INFO] - prediction: 
+[2022-11-01 15:18:44,205][lightning][INFO] - reference : проще простого сезон два часть девять
+[2022-11-01 15:18:44,206][lightning][INFO] - prediction: 
+[2022-11-01 15:18:44,618][lightning][INFO] - reference : смотреть челси манчестер сити
+[2022-11-01 15:18:44,619][lightning][INFO] - prediction: 
+[2022-11-01 15:18:45,295][lightning][INFO] - reference : искать фильм переполох в гималаях
+[2022-11-01 15:18:45,295][lightning][INFO] - prediction: р
+[2022-11-01 15:18:46,378][lightning][INFO] - reference : раннее бронирование номера в отеле
+[2022-11-01 15:18:46,378][lightning][INFO] - prediction: 
+[2022-11-01 15:18:46,961][lightning][INFO] - reference : покажи фильм мой любимый динозавр
+[2022-11-01 15:18:46,961][lightning][INFO] - prediction: 
+[2022-11-01 15:18:47,442][lightning][INFO] - reference : белорусь двадцать четыре на смотрешке
+[2022-11-01 15:18:47,442][lightning][INFO] - prediction: 
+[2022-11-01 15:18:48,056][lightning][INFO] - reference : курс фунта стерлинга по отношению к тенге
+[2022-11-01 15:18:48,057][lightning][INFO] - prediction: 
+[2022-11-01 15:18:48,915][lightning][INFO] - reference : прощай любимая сезон три часть двадцать девять
+[2022-11-01 15:18:48,916][lightning][INFO] - prediction: 
+[2022-11-01 15:18:49,807][lightning][INFO] - reference : как получить забытые в отеле вещи
+[2022-11-01 15:18:49,808][lightning][INFO] - prediction: 
+[2022-11-01 15:18:50,625][lightning][INFO] - reference : миг за мигом серия семнадцать
+[2022-11-01 15:18:50,625][lightning][INFO] - prediction: 
+[2022-11-01 15:18:51,257][lightning][INFO] - reference : салют включи следующий трек
+[2022-11-01 15:18:51,257][lightning][INFO] - prediction: 
+[2022-11-01 15:18:52,211][lightning][INFO] - reference : кировград
+[2022-11-01 15:18:52,212][lightning][INFO] - prediction: 
+[2022-11-01 15:18:52,711][lightning][INFO] - reference : кино четыре ка окко
+[2022-11-01 15:18:52,712][lightning][INFO] - prediction: 
+[2022-11-01 15:18:53,560][lightning][INFO] - reference : закажи жидкость для мытья ванных комнат марки солюверт пятьсот миллилитров
+[2022-11-01 15:18:53,560][lightning][INFO] - prediction: 
+[2022-11-01 15:18:54,185][lightning][INFO] - reference : колыма родина нашего страха хочу
+[2022-11-01 15:18:54,186][lightning][INFO] - prediction: 
+[2022-11-01 15:18:54,951][lightning][INFO] - reference : выведи мне ветер и ивах
+[2022-11-01 15:18:54,951][lightning][INFO] - prediction: 
+[2022-11-01 15:18:55,589][lightning][INFO] - reference : включи эпизод двадцать шесть девятого сезона одиннадцать двадцать два шестьдесят три
+[2022-11-01 15:18:55,589][lightning][INFO] - prediction: 
+[2022-11-01 15:18:56,172][lightning][INFO] - reference : загирова
+[2022-11-01 15:18:56,172][lightning][INFO] - prediction: 
+[2022-11-01 15:18:56,982][lightning][INFO] - reference : где можно приобрести подарочный сертификат в данном отеле
+[2022-11-01 15:18:56,982][lightning][INFO] - prediction: 
+[2022-11-01 15:18:57,811][lightning][INFO] - reference : на ютьюбе канал фактов и интересных фото
+[2022-11-01 15:18:57,811][lightning][INFO] - prediction: 
+[2022-11-01 15:18:58,299][lightning][INFO] - reference : подпорожью
+[2022-11-01 15:18:58,299][lightning][INFO] - prediction: 
+[2022-11-01 15:18:58,900][lightning][INFO] - reference : заводи фильм аббатство даунтон
+[2022-11-01 15:18:58,900][lightning][INFO] - prediction: 
+[2022-11-01 15:18:59,825][lightning][INFO] - reference : афина поставь веселую музыку
+[2022-11-01 15:18:59,826][lightning][INFO] - prediction: 
+[2022-11-01 15:19:00,478][lightning][INFO] - reference : посоветуй мне майти буш
+[2022-11-01 15:19:00,479][lightning][INFO] - prediction: 
+[2022-11-01 15:19:01,282][lightning][INFO] - reference : трансляция футбольного матча лестер против борнмута
+[2022-11-01 15:19:01,282][lightning][INFO] - prediction: 
+[2022-11-01 15:19:01,968][lightning][INFO] - reference : время работы альф
+[2022-11-01 15:19:01,969][lightning][INFO] - prediction: 
+[2022-11-01 15:19:02,436][lightning][INFO] - reference :  
+[2022-11-01 15:19:02,436][lightning][INFO] - prediction: 
+[2022-11-01 15:19:03,054][lightning][INFO] - reference : как называется фильм где человек стал богатым продавая рекламу что ли
+[2022-11-01 15:19:03,054][lightning][INFO] - prediction: 
+[2022-11-01 15:19:03,706][lightning][INFO] - reference : хочу посмотреть на смотрешке нтв сериал
+[2022-11-01 15:19:03,707][lightning][INFO] - prediction: 
+[2022-11-01 15:19:04,226][lightning][INFO] - reference : хочу купить шестнадцать тысяч австралийских долларов сколько это в реалах
+[2022-11-01 15:19:04,226][lightning][INFO] - prediction: 
+[2022-11-01 15:19:04,798][lightning][INFO] - reference : вруби дизельпанк
+[2022-11-01 15:19:04,798][lightning][INFO] - prediction: 
+[2022-11-01 15:19:05,515][lightning][INFO] - reference : приключенческий
+[2022-11-01 15:19:05,515][lightning][INFO] - prediction: 
+[2022-11-01 15:19:06,259][lightning][INFO] - reference : у тебя в списке есть достоевский
+[2022-11-01 15:19:06,259][lightning][INFO] - prediction: 
+[2022-11-01 15:19:06,882][lightning][INFO] - reference : восьмой сезон сериала родина
+[2022-11-01 15:19:06,882][lightning][INFO] - prediction: 
+[2022-11-01 15:19:07,413][lightning][INFO] - reference : валя николаевна хажаева
+[2022-11-01 15:19:07,414][lightning][INFO] - prediction: 
+[2022-11-01 15:19:08,169][lightning][INFO] - reference :  
+[2022-11-01 15:19:08,169][lightning][INFO] - prediction: 
+[2022-11-01 15:19:09,008][lightning][INFO] - reference : обменять швейцарские франки на фунты
+[2022-11-01 15:19:09,009][lightning][INFO] - prediction: 
+[2022-11-01 15:19:09,620][lightning][INFO] - reference : темный дом включай
+[2022-11-01 15:19:09,620][lightning][INFO] - prediction: 
+[2022-11-01 15:19:10,293][lightning][INFO] - reference : стар на смотрешке
+[2022-11-01 15:19:10,293][lightning][INFO] - prediction: 
+[2022-11-01 15:19:10,899][lightning][INFO] - reference : афина ты проведи дмитрию сообщением вкусный ужин на двоих
+[2022-11-01 15:19:10,900][lightning][INFO] - prediction: 
+[2022-11-01 15:19:11,590][lightning][INFO] - reference : вруби сериал первому игроку приготовиться
+[2022-11-01 15:19:11,590][lightning][INFO] - prediction: 
+[2022-11-01 15:19:12,035][lightning][INFO] - reference : а если я хочу работать в сбере
+[2022-11-01 15:19:12,036][lightning][INFO] - prediction: 
+[2022-11-01 15:19:12,634][lightning][INFO] - reference : афина применяется ли в настоящее время гидротипная технология
+[2022-11-01 15:19:12,635][lightning][INFO] - prediction: 
+[2022-11-01 15:19:13,283][lightning][INFO] - reference : афина бригада все серии
+[2022-11-01 15:19:13,284][lightning][INFO] - prediction: 
+[2022-11-01 15:19:14,036][lightning][INFO] - reference : у тебя будет сериал настоящий детектив сезон один
+[2022-11-01 15:19:14,036][lightning][INFO] - prediction: 
+[2022-11-01 15:19:14,599][lightning][INFO] - reference : джой так что теперь
+[2022-11-01 15:19:14,599][lightning][INFO] - prediction: 
+[2022-11-01 15:19:15,187][lightning][INFO] - reference : ямская центр
+[2022-11-01 15:19:15,187][lightning][INFO] - prediction: 
+[2022-11-01 15:19:15,752][lightning][INFO] - reference : у тебя найдется челлендж николь крэзи фэмили
+[2022-11-01 15:19:15,753][lightning][INFO] - prediction: 
+[2022-11-01 15:19:16,471][lightning][INFO] - reference : ок ок
+[2022-11-01 15:19:16,472][lightning][INFO] - prediction: 
+[2022-11-01 15:19:17,050][lightning][INFO] - reference : алексей шеремет
+[2022-11-01 15:19:17,050][lightning][INFO] - prediction: 
+[2022-11-01 15:19:17,852][lightning][INFO] - reference : тайны смолвиля сезон одиннадцать
+[2022-11-01 15:19:17,852][lightning][INFO] - prediction: 
+[2022-11-01 15:19:18,506][lightning][INFO] - reference : набери годы
+[2022-11-01 15:19:18,507][lightning][INFO] - prediction: 
+[2022-11-01 15:19:19,125][lightning][INFO] - reference : стройградик
+[2022-11-01 15:19:19,125][lightning][INFO] - prediction: 
+[2022-11-01 15:19:19,691][lightning][INFO] - reference : мне нужны тапочки поэтому мне нужно обратиться в консьерж сервис
+[2022-11-01 15:19:19,691][lightning][INFO] - prediction: 
+[2022-11-01 15:19:20,232][lightning][INFO] - reference : никитой леонидовичем русских
+[2022-11-01 15:19:20,232][lightning][INFO] - prediction: 
+[2022-11-01 15:19:20,750][lightning][INFO] - reference : включи муз тв
+[2022-11-01 15:19:20,750][lightning][INFO] - prediction: 
+[2022-11-01 15:19:21,821][lightning][INFO] - reference : включи сериал зена королева войнов
+[2022-11-01 15:19:21,822][lightning][INFO] - prediction: 
+[2022-11-01 15:19:22,431][lightning][INFO] - reference : показывай кино испытание свадьбой
+[2022-11-01 15:19:22,432][lightning][INFO] - prediction: 
+[2022-11-01 15:19:23,523][lightning][INFO] - reference :  
+[2022-11-01 15:19:23,523][lightning][INFO] - prediction: 
+[2022-11-01 15:19:24,028][lightning][INFO] - reference : салют как называется этот фильм
+[2022-11-01 15:19:24,028][lightning][INFO] - prediction: 
+[2022-11-01 15:19:24,753][lightning][INFO] - reference : джой двадцать второго марта какой будет день недели
+[2022-11-01 15:19:24,753][lightning][INFO] - prediction: 
+[2022-11-01 15:19:25,288][lightning][INFO] - reference : джой греф ученый
+[2022-11-01 15:19:25,289][lightning][INFO] - prediction: 
+[2022-11-01 15:19:25,878][lightning][INFO] - reference : дети чугунных богов включи мне
+[2022-11-01 15:19:25,879][lightning][INFO] - prediction: 
+[2022-11-01 15:19:26,968][lightning][INFO] - reference : есть ли у тебя фильм любимец учителя
+[2022-11-01 15:19:26,969][lightning][INFO] - prediction: 
+[2022-11-01 15:19:28,511][lightning][INFO] - reference : киноработа снегурочка покажи
+[2022-11-01 15:19:28,511][lightning][INFO] - prediction: 
+[2022-11-01 15:19:29,081][lightning][INFO] - reference : можно ее продлить
+[2022-11-01 15:19:29,081][lightning][INFO] - prediction: 
+[2022-11-01 15:19:29,871][lightning][INFO] - reference : покажи сериал закон каменных джунглей первый сезон
+[2022-11-01 15:19:29,871][lightning][INFO] - prediction: 
+[2022-11-01 15:19:30,726][lightning][INFO] - reference : какие из деловых мероприятий планируются в ближайшее время в отеле
+[2022-11-01 15:19:30,727][lightning][INFO] - prediction: 
+[2022-11-01 15:19:31,487][lightning][INFO] - reference : у тебя есть и я там был
+[2022-11-01 15:19:31,488][lightning][INFO] - prediction: оро
+[2022-11-01 15:19:32,489][lightning][INFO] - reference : львов
+[2022-11-01 15:19:32,490][lightning][INFO] - prediction: 
+[2022-11-01 15:19:33,112][lightning][INFO] - reference : серым юрьевым
+[2022-11-01 15:19:33,112][lightning][INFO] - prediction: б
+[2022-11-01 15:19:33,761][lightning][INFO] - reference : давай посмотрим телесериал полицейский с рублевки на канале тнт
+[2022-11-01 15:19:33,762][lightning][INFO] - prediction: 
+[2022-11-01 15:19:34,727][lightning][INFO] - reference : двадцать одна гуарани поменять на австралийские доллары сколько будет
+[2022-11-01 15:19:34,727][lightning][INFO] - prediction: 
+[2022-11-01 15:19:35,549][lightning][INFO] - reference : пополнить телефон коллеге
+[2022-11-01 15:19:35,550][lightning][INFO] - prediction: 
+[2022-11-01 15:19:36,087][lightning][INFO] - reference : у тебя найдется кино последняя фантазия семь дети пришествия
+[2022-11-01 15:19:36,087][lightning][INFO] - prediction: 
+[2022-11-01 15:19:36,916][lightning][INFO] - reference : триста девяносто один девяносто четыре девяносто восемь двести одиннадцать
+[2022-11-01 15:19:36,916][lightning][INFO] - prediction: 
+[2022-11-01 15:19:37,871][lightning][INFO] - reference : включи ка фильм мебиус
+[2022-11-01 15:19:37,871][lightning][INFO] - prediction: 
+[2022-11-01 15:19:38,438][lightning][INFO] - reference : заказать два килограмма апельсин на дом
+[2022-11-01 15:19:38,439][lightning][INFO] - prediction: 
+[2022-11-01 15:19:39,910][lightning][INFO] - reference : включай фильм займемся любовью
+[2022-11-01 15:19:39,910][lightning][INFO] - prediction: 
+[2022-11-01 15:19:40,501][lightning][INFO] - reference : шестьсот франков это сколько в швейцарских франках
+[2022-11-01 15:19:40,502][lightning][INFO] - prediction: 
+[2022-11-01 15:19:41,135][lightning][INFO] - reference : хочу посмотреть сочи на ти ви
+[2022-11-01 15:19:41,135][lightning][INFO] - prediction: 
+[2022-11-01 15:19:41,695][lightning][INFO] - reference : как мне провести фотосессию в отеле
+[2022-11-01 15:19:41,695][lightning][INFO] - prediction: 
+[2022-11-01 15:19:42,361][lightning][INFO] - reference : ассистент уточни пожалуйста велопрогулки в отеле включены в стоимость или нет
+[2022-11-01 15:19:42,361][lightning][INFO] - prediction: 
+[2022-11-01 15:19:42,776][lightning][INFO] - reference : сбер сколько будет двадцать в квадрате
+[2022-11-01 15:19:42,777][lightning][INFO] - prediction: 
+[2022-11-01 15:19:44,511][lightning][INFO] - reference : хочу заказать килограмм картофеля две баночки сметаны жирностью двадцать пять процентов простоквашино упаковочку укропа и упаковку петрушки
+[2022-11-01 15:19:44,512][lightning][INFO] - prediction: 
+[2022-11-01 15:19:45,024][lightning][INFO] - reference : у тебя в списке есть двойка
+[2022-11-01 15:19:45,024][lightning][INFO] - prediction: 
+[2022-11-01 15:19:45,504][lightning][INFO] - reference : что такое бухгалтерское дело
+[2022-11-01 15:19:45,504][lightning][INFO] - prediction: 
+[2022-11-01 15:19:46,067][lightning][INFO] - reference : изумруд
+[2022-11-01 15:19:46,068][lightning][INFO] - prediction: 
+[2022-11-01 15:19:46,665][lightning][INFO] - reference : красное энд белое
+[2022-11-01 15:19:46,665][lightning][INFO] - prediction: 
+[2022-11-01 15:19:47,335][lightning][INFO] - reference : мессина
+[2022-11-01 15:19:47,336][lightning][INFO] - prediction: 
+[2022-11-01 15:19:47,955][lightning][INFO] - reference : матч английской премьер лиги ливерпуль саутгемптон
+[2022-11-01 15:19:47,955][lightning][INFO] - prediction: 
+[2022-11-01 15:19:48,636][lightning][INFO] - reference : окей
+[2022-11-01 15:19:48,636][lightning][INFO] - prediction: 
+[2022-11-01 15:19:49,170][lightning][INFO] - reference : алиса включи онт
+[2022-11-01 15:19:49,170][lightning][INFO] - prediction: 
+[2022-11-01 15:19:49,801][lightning][INFO] - reference : алиса включи пожалуйста мультфильмы
+[2022-11-01 15:19:49,801][lightning][INFO] - prediction: 
+[2022-11-01 15:19:50,412][lightning][INFO] - reference : хочу увидеть феерию
+[2022-11-01 15:19:50,412][lightning][INFO] - prediction: 
+[2022-11-01 15:19:51,086][lightning][INFO] - reference : одиннадцатый эпизод сезона четыре шоу одиннадцать двадцать два шестьдесят три
+[2022-11-01 15:19:51,086][lightning][INFO] - prediction: 
+[2022-11-01 15:19:51,896][lightning][INFO] - reference : мир сериала на смотрешке
+[2022-11-01 15:19:51,896][lightning][INFO] - prediction: 
+[2022-11-01 15:19:52,612][lightning][INFO] - reference : белый красный и покажи
+[2022-11-01 15:19:52,613][lightning][INFO] - prediction: мора
+[2022-11-01 15:19:53,372][lightning][INFO] - reference : лето рона ховарда
+[2022-11-01 15:19:53,373][lightning][INFO] - prediction: 
+[2022-11-01 15:19:53,895][lightning][INFO] - reference : афина как звали неофициальную жену тургенева
+[2022-11-01 15:19:53,895][lightning][INFO] - prediction: 
+[2022-11-01 15:19:54,397][lightning][INFO] - reference : у тебя будет лучшая часть пинк
+[2022-11-01 15:19:54,399][lightning][INFO] - prediction: 
+[2022-11-01 15:19:55,035][lightning][INFO] - reference : время когда можно осуществлять конные прогулки в этом отеле
+[2022-11-01 15:19:55,035][lightning][INFO] - prediction: 
+[2022-11-01 15:19:56,342][lightning][INFO] - reference : давай я посмотрю встречу ливерпуль с норвичем
+[2022-11-01 15:19:56,342][lightning][INFO] - prediction: 
+[2022-11-01 15:19:57,685][lightning][INFO] - reference : бьютифул
+[2022-11-01 15:19:57,686][lightning][INFO] - prediction: 
+[2022-11-01 15:19:58,338][lightning][INFO] - reference : конный мир на смотрешке
+[2022-11-01 15:19:58,339][lightning][INFO] - prediction: 
+[2022-11-01 15:19:59,389][lightning][INFO] - reference : центральный рынок
+[2022-11-01 15:19:59,389][lightning][INFO] - prediction: 
